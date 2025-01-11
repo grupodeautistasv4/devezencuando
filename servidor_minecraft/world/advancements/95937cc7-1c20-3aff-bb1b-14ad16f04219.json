@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-11 22:49:03 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-01-11 22:33:33 +0000"
@@ -732,6 +738,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-11 22:53:41 +0000"
     },
     "done": true
   },
@@ -1212,6 +1224,12 @@
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-01-11 22:54:25 +0000"
     },
     "done": true
   },

@@ -379,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-11 22:49:25 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-01-11 22:25:17 +0000"
@@ -519,7 +525,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-11 21:54:09 +0000"
+      "minecraft:skeleton": "2025-01-11 21:54:09 +0000",
+      "minecraft:zombie": "2025-01-11 22:57:01 +0000"
     },
     "done": false
   },
@@ -612,6 +619,12 @@
       "log_spam_fixer": "2025-01-11 21:18:54 +0000"
     },
     "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-11 22:47:33 +0000"
+    },
+    "done": true
   },
   "vinery:wine_press": {
     "criteria": {
@@ -1151,6 +1164,7 @@
       "minecraft:bamboo_jungle": "2025-01-11 21:58:16 +0000",
       "minecraft:sparse_jungle": "2025-01-11 21:52:42 +0000",
       "minecraft:river": "2025-01-11 21:57:29 +0000",
+      "minecraft:dripstone_caves": "2025-01-11 22:53:33 +0000",
       "minecraft:forest": "2025-01-11 22:14:51 +0000",
       "minecraft:windswept_forest": "2025-01-11 21:58:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-11 21:52:24 +0000"

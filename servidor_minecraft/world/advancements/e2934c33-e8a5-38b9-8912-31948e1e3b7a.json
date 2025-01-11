@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-01-11 23:01:44 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
       "log_spam_fixer": "2025-01-11 21:20:51 +0000"
@@ -55,9 +61,10 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-01-11 21:59:46 +0000"
+      "has_parent_recipe": "2025-01-11 21:59:46 +0000",
+      "has_items": "2025-01-11 23:01:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -216,6 +223,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 23:01:42 +0000"
+    },
+    "done": true
+  },
   "apotheotic_additions:main/tower": {
     "criteria": {
       "enter_tower": "2025-01-11 22:28:06 +0000"
@@ -335,9 +348,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-01-11 22:53:18 +0000",
       "log_spam_fixer": "2025-01-11 21:20:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
@@ -357,6 +371,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 23:02:21 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:50 +0000"
@@ -366,6 +386,12 @@
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-01-11 21:20:51 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-11 23:02:21 +0000"
     },
     "done": false
   },
@@ -398,6 +424,12 @@
       "log_spam_fixer": "2025-01-11 21:20:51 +0000"
     },
     "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-11 23:01:44 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_blue": {
     "criteria": {
@@ -670,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-11 23:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-11 22:43:58 +0000"
@@ -900,9 +938,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-01-11 21:59:46 +0000"
+      "has_parent_recipe": "2025-01-11 21:59:46 +0000",
+      "has_items": "2025-01-11 23:02:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -970,6 +1009,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-11 23:01:42 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:51 +0000"
@@ -1018,6 +1063,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-11 23:02:22 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:51 +0000"
@@ -1057,6 +1108,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-11 23:03:44 +0000"
     },
     "done": true
   },
@@ -1378,6 +1435,12 @@
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-01-11 22:31:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-01-11 23:03:51 +0000"
     },
     "done": true
   },

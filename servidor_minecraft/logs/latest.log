@@ -4688,3 +4688,155 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [11Jan2025 22:47:42.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Getting an Upgrade]
 [11Jan2025 22:48:07.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Alambre
 [11Jan2025 22:48:09.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> XD
+[11Jan2025 22:48:23.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura moved too quickly! 6.661102294921875,-7.0,9.981468915939331
+[11Jan2025 22:48:28.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Stone Age]
+[11Jan2025 22:48:46.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Yomach the Toxic
+[11Jan2025 22:49:03.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Stone Age]
+[11Jan2025 22:49:19.977] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/38701, l='ServerLevel[world]', x=278.44, y=48.00, z=1946.50] died: Yomach the Toxic was slain by Alambre
+[11Jan2025 22:49:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Stone Age]
+[11Jan2025 22:49:26.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[11Jan2025 22:50:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> shavales yo no puedo hablar sabes tio de dia mas tiempo mas poder comunicarme
+[11Jan2025 22:50:11.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> si, no full pero tengo
+[11Jan2025 22:50:11.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was blown up by Creeper
+[11Jan2025 22:50:14.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> por escribir
+[11Jan2025 22:51:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was mauled by Jericho the Jerk's undead
+[11Jan2025 22:51:24.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 283.500000, 51.500000, 1972.500000]
+[11Jan2025 22:51:46.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was mauled by Jericho the Jerk's undead
+[11Jan2025 22:51:48.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> LOCO
+[11Jan2025 22:51:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> ESTAN TO FUERTES
+[11Jan2025 22:51:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 285.500000, 51.500000, 1972.500000]
+[11Jan2025 22:52:02.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pero q ESTASTU Q VENGO PAQ ME ONESHOTEN
+[11Jan2025 22:52:11.963] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[11Jan2025 22:52:11.963] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[11Jan2025 22:52:20.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> bueno """""""""""""""""""""""""mejor"""""""""""""""""""""""""""""
+[11Jan2025 22:52:34.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre burned to death
+[11Jan2025 22:52:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 245.500000, -0.500000, 2025.500000]
+[11Jan2025 22:52:57.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved too quickly! 6.0574159774928376,1.2446706034698067,-8.097205905262399
+[11Jan2025 22:52:58.836] [Worker-Main3/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Jan2025 22:52:59.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[11Jan2025 22:52:59.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=379, y=72, z=2245} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[11Jan2025 22:52:59.783] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=379, y=72, z=2245}
+[11Jan2025 22:53:02.217] [Worker-Main9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[11Jan2025 22:53:02.233] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[11Jan2025 22:53:02.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved too quickly! 0.3131523401646632,-10.22635305906787,-0.22327809459966375
+[11Jan2025 22:53:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Zombie
+[11Jan2025 22:53:13.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 238.500000, -8.500000, 2055.500000]
+[11Jan2025 22:53:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> donde estoy
+[11Jan2025 22:53:45.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Zombie
+[11Jan2025 22:53:50.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 238.500000, -0.500000, 2028.500000]
+[11Jan2025 22:54:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vampire in Flight
+[11Jan2025 22:54:17.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 334.500000, -10.500000, 1949.500000]
+[11Jan2025 22:54:25.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Vampire Slayer]
+[11Jan2025 22:54:41.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> x2
+[11Jan2025 22:54:57.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Zombie
+[11Jan2025 22:55:01.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> shavales yo no puedo hablar sabes tio de dia mas tiempo mas poder comunicarme
+[11Jan2025 22:55:02.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 207.500000, -8.500000, 2037.500000]
+[11Jan2025 22:55:23.493] [Worker-Main15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[11Jan2025 22:55:25.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> chicos y si me dejais descansar
+[11Jan2025 22:55:28.500] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[11Jan2025 22:55:32.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved too quickly! 0.529591197215467,-8.549296009046493,5.189785798962021
+[11Jan2025 22:55:32.181] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[11Jan2025 22:55:32.182] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jan2025 22:55:32.182] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[11Jan2025 22:55:32.182] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jan2025 22:55:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was incinerated by Alambre's burning dash
+[11Jan2025 22:55:48.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> chicos y si me dejais descansar
+[11Jan2025 22:56:05.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[11Jan2025 22:56:11.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Zombie
+[11Jan2025 22:56:18.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[11Jan2025 22:57:37.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> puedo dormir o no hijos d puta
+[11Jan2025 22:57:41.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> yo tengo un horario
+[11Jan2025 22:57:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> maricones
+[11Jan2025 22:57:55.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> los cojones
+[11Jan2025 22:57:55.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[11Jan2025 22:57:55.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jan2025 22:57:55.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[11Jan2025 22:57:55.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[11Jan2025 22:57:58.230] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[11Jan2025 22:57:58.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jan2025 22:57:58.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[11Jan2025 22:58:08.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Equestrian
+[11Jan2025 22:58:28.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> los bichos me hacen gangbang
+[11Jan2025 22:58:36.385] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 22:58:36.386] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 22:58:36.386] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 22:58:36.386] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 22:58:43.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> loco ya jugamos mañana q me caigo de sueño
+[11Jan2025 22:58:56.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> estudia por la noche como nez
+[11Jan2025 22:58:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> XD
+[11Jan2025 22:59:08.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=443, y=74, z=2507} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[11Jan2025 22:59:08.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=443, y=74, z=2507}
+[11Jan2025 22:59:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre fell from a high place
+[11Jan2025 22:59:49.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 216.500000, -31.500000, 2272.500000]
+[11Jan2025 23:00:08.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Alambre
+[11Jan2025 23:00:09.375] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[11Jan2025 23:00:14.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[11Jan2025 23:00:34.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Zombie
+[11Jan2025 23:00:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 178.500000, -25.500000, 2187.500000]
+[11Jan2025 23:01:16.425] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[11Jan2025 23:01:30.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -6.507779966968116,4.039239821130849,16.823945211743194
+[11Jan2025 23:01:42.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Diamonds!]
+[11Jan2025 23:01:44.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has reached the goal [Worthy Equipment]
+[11Jan2025 23:01:44.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Suit Up]
+[11Jan2025 23:02:08.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> salis hoy oq
+[11Jan2025 23:02:22.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Isn't It Iron Pick]
+[11Jan2025 23:02:36.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aline'/44212, l='ServerLevel[world]', x=78.43, y=239.23, z=2269.49] died, message: 'Aline was burnt to a crisp whilst fighting Alambre'
+[11Jan2025 23:02:36.470] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aline'/44212, l='ServerLevel[world]', x=78.43, y=239.23, z=2269.49] died: Aline was burnt to a crisp whilst fighting Alambre
+[11Jan2025 23:02:37.029] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[11Jan2025 23:02:37.029] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[11Jan2025 23:02:37.029] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[11Jan2025 23:02:58.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[11Jan2025 23:02:58.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[11Jan2025 23:02:58.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jan2025 23:03:31.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pero vosotros estais bajando o subiendo
+[11Jan2025 23:03:38.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ghislaine'/44123, l='ServerLevel[world]', x=69.76, y=62.50, z=2266.32] died, message: 'Ghislaine was slain by Alambre'
+[11Jan2025 23:03:38.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ghislaine'/44123, l='ServerLevel[world]', x=69.76, y=62.50, z=2266.32] died: Ghislaine was slain by Alambre
+[11Jan2025 23:03:44.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Ice Bucket Challenge]
+[11Jan2025 23:03:45.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tardais menos haciendo un parriba
+[11Jan2025 23:03:51.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Hunt and Gather]
+[11Jan2025 23:04:21.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Alambre
+[11Jan2025 23:04:27.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[11Jan2025 23:05:12.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[11Jan2025 23:07:22.256] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/network/messages/BuildToolPlacementMessage$HandlerType
+[11Jan2025 23:07:22.265] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/blueprints/v1/DataVersion
+[11Jan2025 23:07:22.270] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/RotationMirror
+[11Jan2025 23:07:22.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [MineColonies]
+[11Jan2025 23:07:22.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/TickedWorldOperation$OperationType
+[11Jan2025 23:07:22.309] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/StructurePlacer$Operation
+[11Jan2025 23:07:22.310] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/AbstractBlueprintIterator$Result
+[11Jan2025 23:07:22.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/BlockPlacementResult$Result
+[11Jan2025 23:07:22.510] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/handlers/placement/IPlacementHandler$ActionProcessingResult
+[11Jan2025 23:07:32.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alambre lost connection: Disconnected
+[11Jan2025 23:07:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre left the game
+[11Jan2025 23:07:47.924] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[11Jan2025 23:07:47.974] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[11Jan2025 23:07:48.026] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[11Jan2025 23:07:48.072] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[11Jan2025 23:07:48.124] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[11Jan2025 23:07:48.171] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[11Jan2025 23:07:48.222] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[11Jan2025 23:07:48.271] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[11Jan2025 23:07:48.322] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[11Jan2025 23:07:48.372] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[11Jan2025 23:07:48.423] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[11Jan2025 23:07:48.472] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[11Jan2025 23:07:49.038] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[11Jan2025 23:07:49.040] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[11Jan2025 23:07:49.114] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[11Jan2025 23:07:49.184] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1197487d
+[11Jan2025 23:07:49.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alambre[/100.98.220.98:57324] logged in with entity id 58842 at (65.68565586627726, 66.0, 2215.347790669019)
+[11Jan2025 23:07:49.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Alambre
+[11Jan2025 23:07:49.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Alambre
+[11Jan2025 23:07:49.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Alambre
+[11Jan2025 23:07:49.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Alambre
+[11Jan2025 23:07:49.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Alambre
+[11Jan2025 23:07:49.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Alambre
+[11Jan2025 23:07:49.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Alambre
+[11Jan2025 23:07:49.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre joined the game
+[11Jan2025 23:07:49.351] [Server thread/INFO] [Jade/]: Syncing config to Alambre (626e308e-9aaf-33be-8561-42ce9aa1e4bb)
+[11Jan2025 23:07:49.428] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Alambre...
+[11Jan2025 23:07:49.429] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[11Jan2025 23:07:49.429] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[11Jan2025 23:07:49.429] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Alambre
+[11Jan2025 23:08:16.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> q
+[11Jan2025 23:08:27.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tengo inv full btw

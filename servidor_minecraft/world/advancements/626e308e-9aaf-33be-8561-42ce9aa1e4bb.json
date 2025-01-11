@@ -400,6 +400,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-11 22:48:28 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-01-11 22:24:56 +0000"
@@ -433,6 +439,12 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-01-11 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2025-01-11 23:07:22 +0000"
     },
     "done": true
   },
@@ -565,6 +577,7 @@
       "minecraft:spider": "2025-01-11 21:51:04 +0000",
       "minecraft:creeper": "2025-01-11 21:51:33 +0000",
       "minecraft:wither_skeleton": "2025-01-11 21:58:21 +0000",
+      "minecraft:cave_spider": "2025-01-11 22:53:23 +0000",
       "minecraft:zombie": "2025-01-11 21:51:20 +0000",
       "minecraft:drowned": "2025-01-11 21:51:31 +0000"
     },
@@ -663,6 +676,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-11 21:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-11 22:47:42 +0000"
     },
     "done": true
   },
@@ -1087,6 +1106,12 @@
     },
     "done": true
   },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2025-01-11 23:07:22 +0000"
+    },
+    "done": true
+  },
   "vinery:loam_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
@@ -1224,6 +1249,7 @@
       "minecraft:river": "2025-01-11 22:00:37 +0000",
       "minecraft:forest": "2025-01-11 22:14:50 +0000",
       "minecraft:windswept_forest": "2025-01-11 21:58:02 +0000",
+      "minecraft:ocean": "2025-01-11 22:58:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-11 21:52:07 +0000",
       "minecraft:plains": "2025-01-11 21:49:17 +0000"
     },
@@ -1234,6 +1260,26 @@
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-01-11 23:03:38 +0000",
+      "!bit14": "2025-01-11 23:03:38 +0000",
+      "!bit11": "2025-01-11 23:03:38 +0000",
+      "!bit12": "2025-01-11 23:03:38 +0000",
+      "!bit10": "2025-01-11 23:03:38 +0000",
+      "!bit9": "2025-01-11 23:03:38 +0000",
+      "!bit8": "2025-01-11 23:03:38 +0000",
+      "!bit7": "2025-01-11 23:03:38 +0000",
+      "!bit6": "2025-01-11 23:03:38 +0000",
+      "!bit5": "2025-01-11 23:03:38 +0000",
+      "!bit4": "2025-01-11 23:03:38 +0000",
+      "!bit3": "2025-01-11 23:03:38 +0000",
+      "!bit2": "2025-01-11 23:03:38 +0000",
+      "!bit1": "2025-01-11 23:03:38 +0000",
+      "!bit0": "2025-01-11 23:03:38 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
