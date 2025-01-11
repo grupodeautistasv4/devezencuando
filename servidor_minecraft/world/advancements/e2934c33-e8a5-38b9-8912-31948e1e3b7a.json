@@ -411,6 +411,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-11 22:43:10 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:59:46 +0000"
@@ -426,6 +432,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-11 21:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-11 22:38:58 +0000"
     },
     "done": true
   },
@@ -610,6 +622,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-11 22:41:07 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-01-11 21:20:50 +0000"
@@ -649,6 +667,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-01-11 22:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-11 22:43:58 +0000"
     },
     "done": true
   },
@@ -805,6 +829,12 @@
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:50 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-01-11 22:42:45 +0000"
     },
     "done": true
   },
@@ -1012,6 +1042,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-11 22:42:45 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-01-11 21:59:46 +0000"
@@ -1180,6 +1216,7 @@
     "criteria": {
       "atmospheric:rainforest_basin": "2025-01-11 21:56:10 +0000",
       "atmospheric:rainforest": "2025-01-11 21:49:05 +0000",
+      "minecraft:birch_forest": "2025-01-11 22:46:30 +0000",
       "minecraft:windswept_hills": "2025-01-11 21:50:43 +0000",
       "minecraft:bamboo_jungle": "2025-01-11 21:58:59 +0000",
       "minecraft:sparse_jungle": "2025-01-11 21:49:13 +0000",

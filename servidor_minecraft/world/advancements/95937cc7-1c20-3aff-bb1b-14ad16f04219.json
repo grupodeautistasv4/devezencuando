@@ -273,6 +273,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-01-11 22:39:55 +0000",
       "bread": "2025-01-11 22:12:44 +0000"
     },
     "done": false
@@ -430,6 +431,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-11 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-11 22:40:01 +0000"
     },
     "done": true
   },
@@ -629,6 +636,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-11 22:37:41 +0000"
     },
     "done": true
   },

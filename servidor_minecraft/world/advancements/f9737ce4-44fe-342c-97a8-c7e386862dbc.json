@@ -397,6 +397,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-11 22:39:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-01-11 21:18:53 +0000"
@@ -655,6 +661,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-01-11 22:43:54 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2025-01-11 21:18:54 +0000"
@@ -748,6 +760,12 @@
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-01-11 22:44:11 +0000"
     },
     "done": true
   },
@@ -953,6 +971,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-11 22:44:11 +0000"
     },
     "done": true
   },

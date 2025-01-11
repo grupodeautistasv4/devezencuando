@@ -4661,3 +4661,30 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [11Jan2025 22:36:55.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
 [11Jan2025 22:37:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> nez la casa hazla con un bloque extra de altura
 [11Jan2025 22:37:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> high elf
+[11Jan2025 22:37:59.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> da estatura por la cara
+[11Jan2025 22:38:17.473] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 22:38:17.474] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 22:38:17.474] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 22:38:17.474] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 22:38:42.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alambre> que te calles
+[11Jan2025 22:38:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pille 3 por q me veia venir q nos quedamos sin
+[11Jan2025 22:38:58.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Sweet Dreams]
+[11Jan2025 22:39:12.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Sweet Dreams]
+[11Jan2025 22:39:15.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Sweet Dreams]
+[11Jan2025 22:39:49.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> yo si
+[11Jan2025 22:40:01.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Sweet Dreams]
+[11Jan2025 22:42:09.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> hay portales en medio del skill tree
+[11Jan2025 22:42:16.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> para q no tengas q desbloquear el path entero
+[11Jan2025 22:42:42.888] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[11Jan2025 22:42:51.341] [Worker-Main9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[11Jan2025 22:43:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Stone Age]
+[11Jan2025 22:43:49.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> a mi me dejara volar
+[11Jan2025 22:43:58.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> hay una tecla pa eso
+[11Jan2025 22:43:58.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Getting an Upgrade]
+[11Jan2025 22:45:38.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> shavales q son las once menos cuarto
+[11Jan2025 22:45:58.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tengo sueño a partir de las 10 x,d
+[11Jan2025 22:46:26.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> XDD
+[11Jan2025 22:47:33.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Getting an Upgrade]
+[11Jan2025 22:47:42.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Getting an Upgrade]
+[11Jan2025 22:48:07.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Alambre
+[11Jan2025 22:48:09.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> XD

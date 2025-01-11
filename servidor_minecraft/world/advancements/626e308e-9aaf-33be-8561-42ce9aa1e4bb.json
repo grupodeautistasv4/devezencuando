@@ -138,6 +138,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-01-11 22:43:03 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-01-11 21:28:09 +0000"
@@ -250,6 +256,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-11 22:12:59 +0000",
+      "potato": "2025-01-11 22:45:48 +0000",
       "bread": "2025-01-11 22:17:50 +0000",
       "melon_slice": "2025-01-11 22:12:09 +0000"
     },
@@ -408,6 +415,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-11 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-11 22:39:12 +0000"
     },
     "done": true
   },
@@ -602,6 +615,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-11 22:45:43 +0000"
     },
     "done": true
   },
@@ -1198,6 +1217,7 @@
     "criteria": {
       "atmospheric:rainforest_basin": "2025-01-11 21:53:35 +0000",
       "atmospheric:rainforest": "2025-01-11 21:52:04 +0000",
+      "minecraft:birch_forest": "2025-01-11 22:46:31 +0000",
       "minecraft:windswept_hills": "2025-01-11 22:02:15 +0000",
       "minecraft:bamboo_jungle": "2025-01-11 22:00:43 +0000",
       "minecraft:sparse_jungle": "2025-01-11 21:52:40 +0000",
@@ -1214,26 +1234,6 @@
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-01-11 22:35:51 +0000",
-      "!bit14": "2025-01-11 22:35:51 +0000",
-      "!bit11": "2025-01-11 22:35:51 +0000",
-      "!bit12": "2025-01-11 22:35:51 +0000",
-      "!bit10": "2025-01-11 22:35:51 +0000",
-      "!bit9": "2025-01-11 22:35:51 +0000",
-      "!bit8": "2025-01-11 22:35:51 +0000",
-      "!bit7": "2025-01-11 22:35:51 +0000",
-      "!bit6": "2025-01-11 22:35:51 +0000",
-      "!bit5": "2025-01-11 22:35:51 +0000",
-      "!bit4": "2025-01-11 22:35:51 +0000",
-      "!bit3": "2025-01-11 22:35:51 +0000",
-      "!bit2": "2025-01-11 22:35:51 +0000",
-      "!bit1": "2025-01-11 22:35:51 +0000",
-      "!bit0": "2025-01-11 22:35:51 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1378,6 +1378,12 @@
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-01-11 22:43:03 +0000"
     },
     "done": true
   },
