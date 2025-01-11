@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "626e308e9aaf33be856142ce9aa1e4bb"
+	name: "Alambre"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1736630889403L
+		6F010E22CD886969: 1736630889403L
+		0000000000000001: 1736630889403L
+		744084D7C7EA8A6C: 1736630889403L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1736630889403L
+		6F010E22CD886969: 1736630889403L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
