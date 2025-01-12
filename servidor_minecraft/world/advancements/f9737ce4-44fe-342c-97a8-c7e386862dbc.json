@@ -67,9 +67,10 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-01-11 22:25:17 +0000"
+      "has_parent_recipe": "2025-01-11 22:25:17 +0000",
+      "has_items": "2025-01-12 16:25:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -237,6 +238,12 @@
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 16:25:43 +0000"
     },
     "done": true
   },
@@ -434,6 +441,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-01-12 14:36:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 16:21:45 +0000"
     },
     "done": true
   },
@@ -757,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-12 16:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-11 22:47:33 +0000"
@@ -1010,6 +1029,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-01-12 16:21:45 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-11 21:18:53 +0000"
@@ -1119,15 +1144,33 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-01-12 16:39:33 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-01-11 22:25:17 +0000"
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-12 16:25:43 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-01-12 16:39:33 +0000"
     },
     "done": true
   },
@@ -1360,6 +1403,7 @@
       "byg:prairie": "2025-01-11 22:27:52 +0000",
       "byg:orchard": "2025-01-11 22:14:28 +0000",
       "byg:white_mangrove_marshes": "2025-01-11 21:18:54 +0000",
+      "byg:zelkova_forest": "2025-01-12 16:36:15 +0000",
       "byg:bayou": "2025-01-11 22:00:51 +0000",
       "byg:aspen_forest": "2025-01-12 15:57:43 +0000",
       "byg:forgotten_forest": "2025-01-11 21:48:56 +0000",
@@ -1405,6 +1449,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-12 16:37:58 +0000",
       "atmospheric:rainforest_basin": "2025-01-11 21:48:12 +0000",
       "atmospheric:rainforest": "2025-01-11 21:52:52 +0000",
       "minecraft:windswept_hills": "2025-01-11 22:00:45 +0000",
@@ -1412,6 +1457,7 @@
       "minecraft:sparse_jungle": "2025-01-11 21:52:42 +0000",
       "minecraft:river": "2025-01-11 21:57:29 +0000",
       "minecraft:dripstone_caves": "2025-01-11 22:53:33 +0000",
+      "atmospheric:aspen_parkland": "2025-01-12 16:37:18 +0000",
       "minecraft:forest": "2025-01-11 22:14:51 +0000",
       "minecraft:windswept_forest": "2025-01-11 21:58:33 +0000",
       "minecraft:ocean": "2025-01-11 23:12:33 +0000",
@@ -1510,6 +1556,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-12 15:13:52 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2025-01-12 16:21:45 +0000"
     },
     "done": true
   },

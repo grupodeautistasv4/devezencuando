@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-01-12 16:35:43 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:50 +0000"
@@ -319,6 +325,12 @@
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:50 +0000"
+    },
+    "done": true
+  },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-01-12 16:36:03 +0000"
     },
     "done": true
   },

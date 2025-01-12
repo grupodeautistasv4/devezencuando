@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-01-12 16:36:38 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
@@ -530,6 +536,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-01-11 22:35:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-01-12 16:35:11 +0000"
     },
     "done": true
   },
@@ -1149,6 +1161,12 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-01-12 16:29:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
@@ -1380,6 +1398,7 @@
       "minecraft:windswept_forest": "2025-01-11 21:58:34 +0000",
       "minecraft:ocean": "2025-01-11 23:10:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-12 14:37:03 +0000",
+      "atmospheric:laurel_forest": "2025-01-12 16:40:36 +0000",
       "minecraft:deep_dark": "2025-01-11 21:20:43 +0000",
       "minecraft:plains": "2025-01-12 16:05:04 +0000"
     },

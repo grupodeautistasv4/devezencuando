@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-01-12 16:35:49 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
@@ -63,6 +69,12 @@
     "criteria": {
       "has_parent_recipe": "2025-01-11 22:24:56 +0000",
       "has_items": "2025-01-11 21:59:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-01-12 16:21:38 +0000"
     },
     "done": true
   },
@@ -341,6 +353,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/hell_blade_charm": {
+    "criteria": {
+      "has_items": "2025-01-12 16:33:47 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_ruined_building": "2025-01-11 22:33:25 +0000"
@@ -368,6 +386,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-01-12 15:31:44 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-01-12 16:21:38 +0000"
     },
     "done": true
   },
@@ -922,6 +946,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2025-01-12 16:21:38 +0000"
+    },
+    "done": false
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-01-11 21:28:09 +0000"
@@ -1363,11 +1393,23 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 16:21:38 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-01-12 16:40:44 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1644,6 +1686,12 @@
   "majruszsaccessories:adventurer_kit": {
     "criteria": {
       "picked_up_accessory": "2025-01-11 23:16:39 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-01-12 16:32:29 +0000"
     },
     "done": true
   },
