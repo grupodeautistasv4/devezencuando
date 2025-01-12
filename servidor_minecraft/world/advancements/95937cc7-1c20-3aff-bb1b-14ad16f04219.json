@@ -1389,6 +1389,7 @@
       "byg:white_mangrove_marshes": "2025-01-11 21:18:51 +0000",
       "byg:aspen_forest": "2025-01-12 15:59:24 +0000",
       "byg:forgotten_forest": "2025-01-11 21:49:25 +0000",
+      "byg:baobab_savanna": "2025-01-12 17:48:29 +0000",
       "byg:basalt_barrera": "2025-01-11 23:10:52 +0000",
       "byg:temperate_rainforest": "2025-01-12 15:53:31 +0000"
     },
@@ -1448,6 +1449,7 @@
       "atmospheric:laurel_forest": "2025-01-12 16:40:36 +0000",
       "minecraft:deep_dark": "2025-01-11 21:20:43 +0000",
       "minecraft:meadow": "2025-01-12 16:59:19 +0000",
+      "minecraft:savanna": "2025-01-12 17:50:37 +0000",
       "minecraft:plains": "2025-01-12 16:05:04 +0000"
     },
     "done": false
@@ -1709,6 +1711,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-01-12 17:49:25 +0000"
     },
     "done": true
   },

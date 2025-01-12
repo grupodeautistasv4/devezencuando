@@ -1544,6 +1544,12 @@
     },
     "done": false
   },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-01-12 17:43:15 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-01-11 23:13:29 +0000"
