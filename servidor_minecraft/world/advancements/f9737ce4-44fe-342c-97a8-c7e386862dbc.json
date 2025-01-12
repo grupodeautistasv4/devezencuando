@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-01-12 14:37:28 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
       "log_spam_fixer": "2025-01-11 21:18:54 +0000"
@@ -378,6 +384,12 @@
       "log_spam_fixer": "2025-01-11 21:18:54 +0000"
     },
     "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-12 14:36:12 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_blue": {
     "criteria": {
