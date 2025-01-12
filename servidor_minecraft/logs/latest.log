@@ -4546,3 +4546,304 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [12Jan2025 16:00:35.832] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
 [12Jan2025 16:00:36.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1191.500000, 33.500000, 2099.500000]
 [12Jan2025 16:00:39.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 679.500000, 63.500000, 2848.500000]
+[12Jan2025 16:01:17.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 16:01:17.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:01:17.781] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:01:17.781] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:01:24.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Spooky Scary Skeleton]
+[12Jan2025 16:01:28.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved wrongly!
+[12Jan2025 16:02:13.720] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:02:13.720] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:02:13.720] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:02:22.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:02:22.909] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:02:22.909] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:02:33.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Lore Writer]
+[12Jan2025 16:02:41.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:02:41.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 16:02:41.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:02:41.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:03:05.532] [Worker-Main14/WARN] [ModernFix/]: The namespace awesomedungeonnether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[12Jan2025 16:03:10.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Hunt and Gather]
+[12Jan2025 16:03:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Close Quarters]
+[12Jan2025 16:03:35.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [The Beginning of An Adventure]
+[12Jan2025 16:03:35.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Stare Into Despair]
+[12Jan2025 16:03:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 fell from a high place
+[12Jan2025 16:03:56.053] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:03:56.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:03:58.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 149.500000, 72.500000, -9.500000]
+[12Jan2025 16:04:14.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Penteconter]
+[12Jan2025 16:05:10.533] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=512, y=-29, z=3204} but found not block entity block Block{minecraft:cave_air} at location
+[12Jan2025 16:05:10.533] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=512, y=-29, z=3204}
+[12Jan2025 16:05:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[12Jan2025 16:06:32.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/54039, l='ServerLevel[world]', x=737.79, y=63.00, z=3040.46] died: Brog the Bulwark was slain by capybarav2
+[12Jan2025 16:07:29.139] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:07:29.139] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:08:04.135] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joël'/54041, l='ServerLevel[world]', x=721.74, y=64.00, z=3114.58] died, message: 'Joël was slain by Vindicator'
+[12Jan2025 16:08:10.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:08:10.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:08:10.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 16:08:19.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Vindicator
+[12Jan2025 16:08:21.751] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:08:24.022] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:08:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[12Jan2025 16:08:56.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Epic!]
+[12Jan2025 16:10:11.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:10:11.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:10:11.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 16:10:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[12Jan2025 16:10:34.310] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:10:34.853] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:10:36.758] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:10:36.758] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:10:39.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:10:49.689] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:10:49.689] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:11:06.906] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:11:06.907] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:11:06.910] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:11:06.910] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:11:06.910] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:11:06.910] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:11:28.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Barrel Booty]
+[12Jan2025 16:11:31.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [A Little Hot Rod Red]
+[12Jan2025 16:11:47.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [What a Deal!]
+[12Jan2025 16:11:47.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [First Trade]
+[12Jan2025 16:12:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Zombie
+[12Jan2025 16:12:15.980] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:12:16.776] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:12:17.271] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:12:17.272] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:12:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1222.500000, 15.500000, 2118.500000]
+[12Jan2025 16:12:23.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[12Jan2025 16:12:24.963] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:12:25.881] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:12:27.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:12:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[12Jan2025 16:12:41.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Zombie
+[12Jan2025 16:12:44.064] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:12:44.064] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:12:45.161] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:12:45.162] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:12:47.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1223.500000, 15.500000, 2116.500000]
+[12Jan2025 16:12:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:12:54.430] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:12:54.430] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:12:54.430] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:12:54.431] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:12:54.431] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:13:03.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura moved too quickly! 9.432187479912727,-0.49520087700592086,3.7901582602598864
+[12Jan2025 16:13:03.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved too quickly! 8.953913404060813,-1.4524514780759787,4.960629164439524
+[12Jan2025 16:13:04.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Zombie
+[12Jan2025 16:13:07.104] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:13:07.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:13:07.557] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:13:07.557] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:13:07.557] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:13:07.808] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:13:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[12Jan2025 16:13:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1224.500000, 15.500000, 2149.500000]
+[12Jan2025 16:13:10.548] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:13:10.713] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:13:12.155] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:13:12.329] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:13:14.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:13:27.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Ilkin
+[12Jan2025 16:13:30.319] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:13:31.006] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:13:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[12Jan2025 16:13:32.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by capybarav2
+[12Jan2025 16:13:34.552] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:13:35.264] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:13:38.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[12Jan2025 16:13:51.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[12Jan2025 16:13:56.599] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:13:57.067] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:13:58.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:14:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was blown up by Creeper
+[12Jan2025 16:14:24.006] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:14:25.085] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:14:26.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 883.500000, 64.500000, 3520.500000]
+[12Jan2025 16:14:49.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[12Jan2025 16:14:51.756] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:14:52.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was blown up by Creeper
+[12Jan2025 16:14:52.612] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:14:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:14:53.297] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:14:53.406] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:14:53.555] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:14:57.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 938.500000, 65.500000, 3445.500000]
+[12Jan2025 16:15:06.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:15:06.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 16:15:06.098] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 16:15:06.098] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:15:06.098] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:15:07.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Skeleton
+[12Jan2025 16:15:09.654] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:15:10.434] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:15:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 976.500000, 66.500000, 3465.500000]
+[12Jan2025 16:15:30.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=68, z=3466} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:30.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=68, z=3466} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:30.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=68, z=3466} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:31.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=68, z=3466} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:31.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=68, z=3466} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:31.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=68, z=3466} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:31.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=68, z=3466} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:31.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=967, y=68, z=3467} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:31.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=967, y=68, z=3467} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:15:31.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=967, y=68, z=3467} BlockPos{x=968, y=66, z=3465}
+[12Jan2025 16:16:06.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was blown up by Creeper
+[12Jan2025 16:16:07.706] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:16:08.252] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:16:10.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 978.500000, 62.500000, 3420.500000]
+[12Jan2025 16:16:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Jale
+[12Jan2025 16:16:16.661] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:16:17.256] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:16:20.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 983.500000, 68.500000, 3431.500000]
+[12Jan2025 16:16:24.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 134.500000, 63.500000, 952.500000]
+[12Jan2025 16:16:25.008] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:16:25.008] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:16:25.008] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 16:16:25.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 16:16:33.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[12Jan2025 16:16:55.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was shot by Skeleton
+[12Jan2025 16:16:57.331] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:16:57.842] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[12Jan2025 16:16:57.842] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[12Jan2025 16:16:58.380] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:17:00.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1191.500000, 24.500000, 2120.500000]
+[12Jan2025 16:17:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Not Today, Thank You]
+[12Jan2025 16:17:21.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was shot by Stray
+[12Jan2025 16:17:23.450] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:17:23.974] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:17:25.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1188.500000, 24.500000, 2124.500000]
+[12Jan2025 16:17:33.642] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:17:33.643] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 16:17:33.643] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:17:59.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was shot by Skeleton
+[12Jan2025 16:18:01.153] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:18:01.720] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:18:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:18:09.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was shot by Skeleton
+[12Jan2025 16:18:11.403] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:18:11.876] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:18:13.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=72, z=3524} BlockPos{x=1029, y=70, z=3524}
+[12Jan2025 16:18:13.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=72, z=3524} BlockPos{x=1029, y=70, z=3524}
+[12Jan2025 16:18:14.302] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 16:18:14.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 16:18:14.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 16:18:14.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:18:14.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1186.500000, 24.500000, 2120.500000]
+[12Jan2025 16:18:15.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=3533} BlockPos{x=1029, y=69, z=3534}
+[12Jan2025 16:18:15.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=3533} BlockPos{x=1029, y=69, z=3534}
+[12Jan2025 16:18:15.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=3533} BlockPos{x=1029, y=69, z=3534}
+[12Jan2025 16:18:22.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1061, y=72, z=3558} BlockPos{x=1061, y=70, z=3557}
+[12Jan2025 16:18:22.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1061, y=72, z=3558} BlockPos{x=1061, y=70, z=3557}
+[12Jan2025 16:18:22.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1061, y=72, z=3558} BlockPos{x=1061, y=70, z=3557}
+[12Jan2025 16:18:23.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1063, y=73, z=3563} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:23.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1063, y=73, z=3563} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:23.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1063, y=73, z=3563} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:23.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1063, y=73, z=3563} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:23.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1063, y=73, z=3563} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:23.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1064, y=73, z=3564} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:23.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1064, y=73, z=3564} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:23.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1064, y=73, z=3564} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:23.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1064, y=73, z=3564} BlockPos{x=1061, y=71, z=3561}
+[12Jan2025 16:18:24.066] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 16:18:24.067] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:18:24.069] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 16:18:24.070] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:18:24.070] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 16:18:24.071] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 16:18:24.348] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:18:24.348] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:18:24.349] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:18:24.349] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:18:28.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1088, y=73, z=3586} BlockPos{x=1081, y=73, z=3580}
+[12Jan2025 16:18:28.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1088, y=73, z=3586} BlockPos{x=1081, y=73, z=3580}
+[12Jan2025 16:18:28.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1088, y=73, z=3586} BlockPos{x=1081, y=73, z=3580}
+[12Jan2025 16:18:28.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1090, y=73, z=3584} BlockPos{x=1081, y=73, z=3580}
+[12Jan2025 16:18:28.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1090, y=73, z=3584} BlockPos{x=1081, y=73, z=3580}
+[12Jan2025 16:18:29.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1090, y=73, z=3585} BlockPos{x=1092, y=73, z=3587}
+[12Jan2025 16:18:29.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1090, y=73, z=3585} BlockPos{x=1092, y=73, z=3587}
+[12Jan2025 16:18:29.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1090, y=73, z=3585} BlockPos{x=1092, y=73, z=3587}
+[12Jan2025 16:18:30.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:30.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:30.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:30.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:30.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:30.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:30.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:30.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:31.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1096, y=75, z=3591} BlockPos{x=1094, y=73, z=3590}
+[12Jan2025 16:18:31.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1098, y=75, z=3595} BlockPos{x=1098, y=73, z=3594}
+[12Jan2025 16:18:31.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1098, y=75, z=3595} BlockPos{x=1098, y=73, z=3594}
+[12Jan2025 16:18:31.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1100, y=74, z=3595} BlockPos{x=1100, y=73, z=3596}
+[12Jan2025 16:18:31.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1100, y=74, z=3595} BlockPos{x=1100, y=73, z=3596}
+[12Jan2025 16:18:31.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1100, y=74, z=3595} BlockPos{x=1100, y=73, z=3596}
+[12Jan2025 16:18:31.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1100, y=74, z=3595} BlockPos{x=1100, y=73, z=3596}
+[12Jan2025 16:18:34.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1111, y=73, z=3610} BlockPos{x=1112, y=71, z=3610}
+[12Jan2025 16:18:34.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1111, y=73, z=3610} BlockPos{x=1112, y=71, z=3610}
+[12Jan2025 16:18:35.008] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1285, y=72, z=3653} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[12Jan2025 16:18:35.008] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=1285, y=72, z=3653}
+[12Jan2025 16:18:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was shot by Skeleton
+[12Jan2025 16:18:41.716] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:18:41.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1188.500000, 24.500000, 2105.500000]
+[12Jan2025 16:18:43.261] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[12Jan2025 16:18:51.494] [Worker-Main14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[12Jan2025 16:19:00.752] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:19:00.753] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:19:00.753] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:19:00.753] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 16:19:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Skeleton
+[12Jan2025 16:19:16.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Alambre
+[12Jan2025 16:19:17.826] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:19:18.045] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:19:19.014] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:19:19.014] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:19:20.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 1151.500000, 72.500000, 3649.500000]
+[12Jan2025 16:19:20.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was shot by Skeleton
+[12Jan2025 16:19:21.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:19:22.418] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:19:22.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:19:26.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alambre: Teleported Alambre to 1188.500000, 24.500000, 2125.500000]
+[12Jan2025 16:19:29.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 16:19:29.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:19:29.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 16:19:29.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 16:19:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Not Today, Thank You]
+[12Jan2025 16:20:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Skeleton
+[12Jan2025 16:20:08.711] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:20:09.805] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:20:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 1155.500000, 82.500000, 3652.500000]
+[12Jan2025 16:20:17.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Skeleton
+[12Jan2025 16:20:19.471] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:20:20.164] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:20:25.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Cursed Armor
+[12Jan2025 16:20:25.502] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[12Jan2025 16:20:25.502] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[12Jan2025 16:20:25.502] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[12Jan2025 16:20:25.502] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[12Jan2025 16:20:25.502] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[12Jan2025 16:20:27.073] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:20:27.088] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:20:27.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 1155.500000, 82.500000, 3652.500000]
+[12Jan2025 16:20:28.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
+[12Jan2025 16:20:29.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:20:29.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:20:29.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Skeleton
+[12Jan2025 16:20:29.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:20:30.681] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:20:30.697] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:20:32.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 1159.500000, 69.500000, 3647.500000]
+[12Jan2025 16:20:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Royal Zombie
+[12Jan2025 16:20:40.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Cursed Armor
+[12Jan2025 16:20:41.227] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:20:41.299] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:20:41.360] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:20:41.361] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:20:44.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Royal Zombie
+[12Jan2025 16:20:45.789] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 16:20:45.801] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 16:20:49.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to Alambre]
+[12Jan2025 16:20:51.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 1155.500000, 82.500000, 3651.500000]

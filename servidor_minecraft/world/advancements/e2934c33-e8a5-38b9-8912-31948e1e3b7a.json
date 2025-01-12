@@ -1018,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-12 16:17:02 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:51 +0000"
@@ -1229,6 +1235,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2025-01-12 15:57:05 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:50 +0000"
@@ -1383,6 +1395,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 16:05:47 +0000"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-11 21:44:33 +0000"
@@ -1401,6 +1419,7 @@
       "minecraft:river": "2025-01-11 21:50:23 +0000",
       "minecraft:swamp": "2025-01-12 15:24:09 +0000",
       "minecraft:forest": "2025-01-11 22:14:50 +0000",
+      "minecraft:lush_caves": "2025-01-12 16:20:40 +0000",
       "minecraft:windswept_forest": "2025-01-11 21:49:03 +0000",
       "minecraft:ocean": "2025-01-11 22:26:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-11 21:49:02 +0000",
@@ -1424,6 +1443,12 @@
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-01-11 21:20:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-12 16:05:47 +0000"
     },
     "done": true
   },

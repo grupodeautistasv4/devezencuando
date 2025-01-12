@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 16:02:33 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
@@ -452,6 +458,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-11 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-01-12 16:08:56 +0000"
     },
     "done": true
   },
@@ -609,6 +621,7 @@
       "minecraft:creeper": "2025-01-11 21:51:33 +0000",
       "minecraft:wither_skeleton": "2025-01-11 21:58:21 +0000",
       "minecraft:cave_spider": "2025-01-11 22:53:23 +0000",
+      "minecraft:stray": "2025-01-12 16:06:53 +0000",
       "minecraft:zombie": "2025-01-11 21:51:20 +0000",
       "minecraft:drowned": "2025-01-11 21:51:31 +0000"
     },
@@ -945,6 +958,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-01-12 16:02:33 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-11 21:28:09 +0000"
@@ -1105,6 +1124,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-12 15:57:07 +0000"
     },
     "done": true
   },
@@ -1277,6 +1302,12 @@
     },
     "done": false
   },
+  "majruszsaccessories:miner_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-01-12 15:56:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
@@ -1423,6 +1454,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2025-01-12 16:02:33 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-01-11 21:28:10 +0000"
@@ -1511,6 +1548,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-01-12 15:30:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-12 16:04:14 +0000"
     },
     "done": true
   },

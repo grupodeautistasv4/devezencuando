@@ -365,6 +365,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-01-12 16:19:06 +0000",
       "entered_large_dungeon": "2025-01-12 14:53:23 +0000",
       "entered_ruined_building": "2025-01-11 22:33:17 +0000"
     },
@@ -633,6 +634,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-11 22:24:42 +0000",
       "minecraft:skeleton": "2025-01-11 21:53:28 +0000",
+      "minecraft:spider": "2025-01-12 16:15:39 +0000",
       "minecraft:creeper": "2025-01-11 22:27:43 +0000",
       "minecraft:witch": "2025-01-11 22:28:19 +0000",
       "minecraft:silverfish": "2025-01-11 21:56:41 +0000",
@@ -1328,6 +1330,7 @@
       "byg:prairie": "2025-01-11 22:28:17 +0000",
       "byg:orchard": "2025-01-11 22:14:38 +0000",
       "byg:white_mangrove_marshes": "2025-01-11 21:18:51 +0000",
+      "byg:aspen_forest": "2025-01-12 15:59:24 +0000",
       "byg:forgotten_forest": "2025-01-11 21:49:25 +0000",
       "byg:basalt_barrera": "2025-01-11 23:10:52 +0000",
       "byg:temperate_rainforest": "2025-01-12 15:53:31 +0000"
@@ -1367,6 +1370,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "atmospheric:rainforest": "2025-01-11 21:55:44 +0000",
+      "minecraft:birch_forest": "2025-01-12 15:59:26 +0000",
       "minecraft:windswept_hills": "2025-01-11 21:58:37 +0000",
       "minecraft:bamboo_jungle": "2025-01-11 21:58:58 +0000",
       "minecraft:dark_forest": "2025-01-12 15:53:37 +0000",
@@ -1376,7 +1380,8 @@
       "minecraft:windswept_forest": "2025-01-11 21:58:34 +0000",
       "minecraft:ocean": "2025-01-11 23:10:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-12 14:37:03 +0000",
-      "minecraft:deep_dark": "2025-01-11 21:20:43 +0000"
+      "minecraft:deep_dark": "2025-01-11 21:20:43 +0000",
+      "minecraft:plains": "2025-01-12 16:05:04 +0000"
     },
     "done": false
   },
@@ -1589,6 +1594,12 @@
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2025-01-11 22:17:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-12 15:57:14 +0000"
     },
     "done": true
   },
