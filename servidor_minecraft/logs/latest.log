@@ -4045,3 +4045,25 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [12Jan2025 15:09:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vindicator
 [12Jan2025 15:09:26.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Vindicator
 [12Jan2025 15:09:27.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Vindicator
+[12Jan2025 15:10:03.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Alambre
+[12Jan2025 15:10:48.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was killed by nezmanmatalaura's magic missile
+[12Jan2025 15:11:50.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 15:11:50.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 15:11:50.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 15:12:07.082] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 15:12:07.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 15:12:07.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 15:12:27.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has reached the goal [Adventurer ]
+[12Jan2025 15:13:52.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Take Aim]
+[12Jan2025 15:14:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has reached the goal [Flawless Crystals]
+[12Jan2025 15:14:27.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was killed by nezmanmatalaura's magic missile
+[12Jan2025 15:14:34.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [How'd You Get This?]
+[12Jan2025 15:14:34.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Ol' Betsy]
+[12Jan2025 15:15:02.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Close Quarters]
+[12Jan2025 15:15:17.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [From The Shadows]
+[12Jan2025 15:16:42.227] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a44de91
+[12Jan2025 15:16:52.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Boo!]
+[12Jan2025 15:16:54.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Let's Get To Work]
+[12Jan2025 15:17:38.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Cover Me In Emeralds]
+[12Jan2025 15:18:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Magnificence]
+[12Jan2025 15:18:30.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Cover Me In Emeralds]

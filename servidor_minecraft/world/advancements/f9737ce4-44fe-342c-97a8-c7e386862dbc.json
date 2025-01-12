@@ -261,7 +261,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "atmospheric:shimmering_passion_fruit": "2025-01-11 22:07:06 +0000",
-      "bread": "2025-01-11 22:07:44 +0000"
+      "bread": "2025-01-11 22:07:44 +0000",
+      "golden_apple": "2025-01-12 15:13:11 +0000"
     },
     "done": false
   },
@@ -561,6 +562,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-12 15:09:33 +0000",
       "minecraft:skeleton": "2025-01-11 21:54:09 +0000",
       "minecraft:zombie": "2025-01-11 22:57:01 +0000"
     },
@@ -767,6 +769,12 @@
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-01-12 15:12:27 +0000"
     },
     "done": true
   },
@@ -1222,6 +1230,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-12 15:14:34 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
@@ -1341,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-12 15:13:52 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-01-11 21:18:54 +0000"
@@ -1447,6 +1467,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-01-12 15:15:17 +0000"
     },
     "done": true
   },
