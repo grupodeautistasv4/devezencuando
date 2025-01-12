@@ -464,6 +464,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:main/discover_spellstone": {
+    "criteria": {
+      "spellstone": "2025-01-12 19:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-01-11 22:19:47 +0000"
@@ -739,6 +745,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone1": "2025-01-12 19:45:08 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
@@ -941,6 +953,12 @@
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/lost_engine": {
+    "criteria": {
+      "has_items": "2025-01-12 19:45:32 +0000"
     },
     "done": true
   },
@@ -1383,6 +1401,12 @@
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_1": "2025-01-12 19:45:08 +0000"
+    },
+    "done": false
   },
   "lootr:root": {
     "criteria": {
@@ -1831,6 +1855,12 @@
   "majruszsaccessories:certificate_of_taming": {
     "criteria": {
       "picked_up_accessory": "2025-01-12 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-01-12 19:45:08 +0000"
     },
     "done": true
   },
