@@ -591,6 +591,7 @@
       "savage_and_ravage:creepie": "2025-01-12 15:31:55 +0000",
       "minecraft:spider": "2025-01-12 15:20:17 +0000",
       "minecraft:creeper": "2025-01-12 15:34:23 +0000",
+      "minecraft:husk": "2025-01-12 15:38:48 +0000",
       "minecraft:zombie": "2025-01-11 22:57:01 +0000"
     },
     "done": false
@@ -634,6 +635,12 @@
   "vinery:cherry_sign": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-01-12 15:37:04 +0000"
     },
     "done": true
   },
