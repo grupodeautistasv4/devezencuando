@@ -217,6 +217,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-01-12 15:24:03 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/arcane_scrolls": {
     "criteria": {
       "has_the_recipe": "2025-01-12 15:08:35 +0000"
@@ -621,7 +627,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-12 15:13:53 +0000",
-      "minecraft:spider": "2025-01-11 22:14:01 +0000"
+      "minecraft:spider": "2025-01-11 22:14:01 +0000",
+      "minecraft:zombie": "2025-01-12 15:25:23 +0000"
     },
     "done": false
   },
@@ -684,6 +691,12 @@
       "has_item": "2025-01-11 22:41:07 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smithingtable": "2025-01-12 15:16:54 +0000"
+    },
+    "done": false
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -813,9 +826,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-01-12 15:08:35 +0000"
+      "has_parent_recipe": "2025-01-12 15:08:35 +0000",
+      "has_items": "2025-01-12 15:17:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
@@ -961,6 +975,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-01-12 15:24:41 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-11 21:20:51 +0000"
@@ -1055,6 +1075,12 @@
   "vinery:cherry_boat": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:20:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-01-12 15:18:04 +0000"
     },
     "done": true
   },
@@ -1257,6 +1283,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 15:17:34 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2025-01-12 15:08:35 +0000"
@@ -1340,6 +1372,7 @@
       "minecraft:beach": "2025-01-11 23:17:08 +0000",
       "minecraft:sparse_jungle": "2025-01-11 21:49:13 +0000",
       "minecraft:river": "2025-01-11 21:50:23 +0000",
+      "minecraft:swamp": "2025-01-12 15:24:09 +0000",
       "minecraft:forest": "2025-01-11 22:14:50 +0000",
       "minecraft:windswept_forest": "2025-01-11 21:49:03 +0000",
       "minecraft:ocean": "2025-01-11 22:26:31 +0000",
@@ -1548,6 +1581,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-12 15:22:30 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "nether_eye": "2025-01-12 15:08:35 +0000"
@@ -1641,6 +1680,18 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_by_something": "2025-01-11 21:43:58 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smithingtable": "2025-01-12 15:16:54 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-01-12 15:17:38 +0000"
     },
     "done": true
   },

@@ -4067,3 +4067,126 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [12Jan2025 15:17:38.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Cover Me In Emeralds]
 [12Jan2025 15:18:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Magnificence]
 [12Jan2025 15:18:30.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Cover Me In Emeralds]
+[12Jan2025 15:20:00.101] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[12Jan2025 15:20:09.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [How'd You Get This?]
+[12Jan2025 15:20:10.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Nerves of Steel]
+[12Jan2025 15:20:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Nerves of Steel]
+[12Jan2025 15:20:24.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was blown up by Creeper
+[12Jan2025 15:20:25.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was impaled by Frenzied Knight
+[12Jan2025 15:21:40.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 15:21:40.683] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 15:21:40.683] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 15:21:40.683] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 15:22:21.859] [Worker-Main14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[12Jan2025 15:22:21.921] [pool-12-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[12Jan2025 15:22:30.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Penteconter]
+[12Jan2025 15:22:35.219] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[12Jan2025 15:23:53.418] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:23:53.418] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:23:53.418] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:23:53.418] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:23:53.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Magery]
+[12Jan2025 15:24:36.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 15:24:36.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 15:24:37.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[12Jan2025 15:24:57.297] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/network/ServerBoundCycleQuiverPacket$Slot
+[12Jan2025 15:25:19.086] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/network/messages/BuildToolPlacementMessage$HandlerType
+[12Jan2025 15:25:19.097] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/blueprints/v1/DataVersion
+[12Jan2025 15:25:19.099] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/RotationMirror
+[12Jan2025 15:25:19.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/TickedWorldOperation$OperationType
+[12Jan2025 15:25:19.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/StructurePlacer$Operation
+[12Jan2025 15:25:19.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/AbstractBlueprintIterator$Result
+[12Jan2025 15:25:19.182] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/BlockPlacementResult$Result
+[12Jan2025 15:25:19.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/handlers/placement/IPlacementHandler$ActionProcessingResult
+[12Jan2025 15:25:40.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alambre lost connection: Disconnected
+[12Jan2025 15:25:40.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre left the game
+[12Jan2025 15:25:54.437] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[12Jan2025 15:25:54.487] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[12Jan2025 15:25:54.539] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[12Jan2025 15:25:54.591] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[12Jan2025 15:25:54.642] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[12Jan2025 15:25:54.698] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[12Jan2025 15:25:54.740] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[12Jan2025 15:25:54.791] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[12Jan2025 15:25:54.846] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[12Jan2025 15:25:54.932] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[12Jan2025 15:25:55.000] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[12Jan2025 15:25:55.035] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[12Jan2025 15:25:55.616] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[12Jan2025 15:25:55.627] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[12Jan2025 15:25:55.744] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[12Jan2025 15:25:55.839] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77342289
+[12Jan2025 15:25:55.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alambre[/100.98.220.98:56885] logged in with entity id 16956 at (289.3020535538181, 65.0, 1927.6644849551394)
+[12Jan2025 15:25:55.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Alambre
+[12Jan2025 15:25:55.880] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Alambre
+[12Jan2025 15:25:55.880] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Alambre
+[12Jan2025 15:25:55.880] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Alambre
+[12Jan2025 15:25:55.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Alambre
+[12Jan2025 15:25:55.883] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Alambre
+[12Jan2025 15:25:55.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Alambre
+[12Jan2025 15:25:55.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre joined the game
+[12Jan2025 15:25:56.054] [Server thread/INFO] [Jade/]: Syncing config to Alambre (626e308e-9aaf-33be-8561-42ce9aa1e4bb)
+[12Jan2025 15:25:56.180] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Alambre...
+[12Jan2025 15:25:56.180] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[12Jan2025 15:25:56.181] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Jan2025 15:25:56.181] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Alambre
+[12Jan2025 15:26:03.850] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[12Jan2025 15:26:04.899] [Worker-Main14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[12Jan2025 15:26:10.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Creepie Crawly]
+[12Jan2025 15:26:12.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [What Was That!?]
+[12Jan2025 15:26:53.313] [Worker-Main8/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[12Jan2025 15:26:54.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Alambre
+[12Jan2025 15:26:55.847] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 15:26:55.847] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 15:26:55.847] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 15:27:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Engineer Gaming]
+[12Jan2025 15:27:44.489] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 15:27:44.489] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 15:27:44.489] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 15:27:44.489] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 15:27:49.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Skeleton
+[12Jan2025 15:28:04.338] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 15:28:04.338] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 15:28:20.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has reached the goal [Worthy Equipment]
+[12Jan2025 15:28:45.895] [Worker-Main14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[12Jan2025 15:29:09.881] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[12Jan2025 15:29:10.831] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.831] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.832] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.832] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.833] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.833] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.835] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.835] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.836] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.836] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.837] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:10.838] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:12.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alambre moved too quickly! -2.5917581087617805,0.09687275232550974,-9.774582271935287
+[12Jan2025 15:29:12.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[12Jan2025 15:29:28.009] [Worker-Main8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[12Jan2025 15:29:30.934] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:30.935] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:30.935] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:30.936] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:32.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 15:29:32.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 15:29:32.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 15:29:41.504] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=709, y=74, z=2437} but found not block entity block Block{minecraft:air} at location
+[12Jan2025 15:29:41.505] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=709, y=74, z=2437}
+[12Jan2025 15:29:47.572] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:47.572] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:47.572] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:47.572] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 15:29:53.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[12Jan2025 15:29:53.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alambre moved too quickly! -7.047929690452236,0.0,7.18886584534539
+[12Jan2025 15:29:53.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -8.610910353334702,-11.874121926178816,9.885975774911458
+[12Jan2025 15:29:53.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved too quickly! 8.52838052786717,2.102497012643738,5.1053668909671615
+[12Jan2025 15:29:53.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[12Jan2025 15:29:57.017] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 15:29:57.018] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 15:29:57.972] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[12Jan2025 15:29:58.318] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[12Jan2025 15:30:02.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -18.659956225115934,-0.6084902269635961,-1.0395257609152395
+[12Jan2025 15:30:02.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved too quickly! 6.340901977949045,-0.24785109963254115,7.938529885154821
+[12Jan2025 15:30:02.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura moved too quickly! -3.8146672555147347,3.0013359791121417,-8.902200616236769
