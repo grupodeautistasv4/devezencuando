@@ -235,6 +235,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-12 18:44:17 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-01-11 21:53:54 +0000"
@@ -310,6 +316,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-12 15:37:06 +0000",
+      "cooked_beef": "2025-01-12 18:43:45 +0000",
       "apple": "2025-01-11 22:39:55 +0000",
       "bread": "2025-01-11 22:12:44 +0000",
       "atmospheric:orange": "2025-01-12 17:37:43 +0000"
@@ -947,6 +954,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_badlands": "2025-01-12 18:40:22 +0000"
+    },
+    "done": false
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_ruined_building": "2025-01-11 22:33:17 +0000"
@@ -1064,6 +1077,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-12 18:44:17 +0000"
     },
     "done": true
   },
@@ -1402,13 +1421,15 @@
       "byg:red_oak_forest": "2025-01-12 17:22:40 +0000",
       "byg:dead_sea": "2025-01-12 18:18:58 +0000",
       "byg:white_mangrove_marshes": "2025-01-11 21:18:51 +0000",
+      "byg:firecracker_shrubland": "2025-01-12 18:40:25 +0000",
       "byg:aspen_forest": "2025-01-12 15:59:24 +0000",
       "byg:forgotten_forest": "2025-01-11 21:49:25 +0000",
       "byg:baobab_savanna": "2025-01-12 17:48:29 +0000",
       "byg:amaranth_fields": "2025-01-12 18:14:59 +0000",
       "byg:basalt_barrera": "2025-01-11 23:10:52 +0000",
       "byg:lush_stacks": "2025-01-12 18:17:16 +0000",
-      "byg:temperate_rainforest": "2025-01-12 15:53:31 +0000"
+      "byg:temperate_rainforest": "2025-01-12 15:53:31 +0000",
+      "byg:windswept_desert": "2025-01-12 18:52:50 +0000"
     },
     "done": false
   },
@@ -1457,6 +1478,7 @@
       "minecraft:birch_forest": "2025-01-12 15:59:26 +0000",
       "minecraft:windswept_hills": "2025-01-11 21:58:37 +0000",
       "minecraft:bamboo_jungle": "2025-01-11 21:58:58 +0000",
+      "minecraft:badlands": "2025-01-12 18:39:46 +0000",
       "minecraft:beach": "2025-01-12 17:36:03 +0000",
       "minecraft:dark_forest": "2025-01-12 15:53:37 +0000",
       "minecraft:sparse_jungle": "2025-01-11 21:53:30 +0000",
@@ -1465,11 +1487,14 @@
       "minecraft:stony_shore": "2025-01-12 17:11:25 +0000",
       "minecraft:dripstone_caves": "2025-01-12 16:44:00 +0000",
       "minecraft:grove": "2025-01-12 17:01:27 +0000",
+      "atmospheric:dunes": "2025-01-12 18:29:19 +0000",
       "atmospheric:aspen_parkland": "2025-01-12 17:36:48 +0000",
       "minecraft:forest": "2025-01-11 22:14:51 +0000",
+      "minecraft:desert": "2025-01-12 18:52:45 +0000",
       "minecraft:windswept_forest": "2025-01-11 21:58:34 +0000",
       "minecraft:ocean": "2025-01-11 23:10:01 +0000",
       "atmospheric:sparse_rainforest_basin": "2025-01-12 18:15:38 +0000",
+      "atmospheric:scrubland": "2025-01-12 18:22:08 +0000",
       "minecraft:frozen_peaks": "2025-01-12 17:00:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-12 14:37:03 +0000",
       "atmospheric:laurel_forest": "2025-01-12 16:40:36 +0000",
@@ -1763,6 +1788,13 @@
       "loot_stat": "2025-01-12 17:49:25 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-01-12 18:23:35 +0000",
+      "barrel_cactus": "2025-01-12 18:52:35 +0000"
+    },
+    "done": false
   },
   "majruszsaccessories:certificate_of_taming": {
     "criteria": {
