@@ -716,6 +716,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-12 15:04:38 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-01-11 22:43:54 +0000"

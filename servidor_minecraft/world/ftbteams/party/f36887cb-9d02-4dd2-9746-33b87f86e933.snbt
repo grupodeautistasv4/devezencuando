@@ -10,8 +10,8 @@
 	properties: {
 		"ftbteams:display_name": "Niggasex"
 		"ftbteams:description": ""
-		"ftbteams:color": "#CDFF59"
-		"ftbteams:free_to_join": 0b
+		"ftbteams:color": "#59FFEA"
+		"ftbteams:free_to_join": 1b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
 		"ftbchunks:allow_mob_griefing": 0b
