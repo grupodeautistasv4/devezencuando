@@ -360,6 +360,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-01-12 15:26:59 +0000",
       "entered_ruined_building": "2025-01-11 22:31:47 +0000"
     },
     "done": false
@@ -1325,6 +1326,7 @@
       "byg:coconino_meadow": "2025-01-11 22:32:08 +0000",
       "byg:prairie": "2025-01-11 22:27:28 +0000",
       "byg:orchard": "2025-01-11 22:14:16 +0000",
+      "byg:cypress_swamplands": "2025-01-12 15:25:58 +0000",
       "byg:white_mangrove_marshes": "2025-01-11 21:20:51 +0000",
       "byg:bayou": "2025-01-11 21:49:01 +0000",
       "byg:forgotten_forest": "2025-01-11 22:00:37 +0000",
