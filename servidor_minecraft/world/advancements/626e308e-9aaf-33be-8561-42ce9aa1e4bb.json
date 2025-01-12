@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2025-01-12 15:55:24 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
@@ -755,6 +761,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2025-01-12 15:54:41 +0000"
     },
     "done": true
   },
@@ -1258,6 +1270,7 @@
       "byg:allium_fields": "2025-01-11 21:49:18 +0000",
       "byg:prairie": "2025-01-11 22:27:58 +0000",
       "byg:orchard": "2025-01-11 22:14:14 +0000",
+      "byg:red_oak_forest": "2025-01-12 15:53:04 +0000",
       "byg:white_mangrove_marshes": "2025-01-11 21:28:10 +0000",
       "byg:bayou": "2025-01-11 21:49:23 +0000",
       "byg:basalt_barrera": "2025-01-11 22:24:08 +0000"
@@ -1314,6 +1327,7 @@
       "minecraft:windswept_forest": "2025-01-11 21:58:02 +0000",
       "minecraft:ocean": "2025-01-11 22:58:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-11 21:52:07 +0000",
+      "atmospheric:laurel_forest": "2025-01-12 15:53:06 +0000",
       "minecraft:plains": "2025-01-11 21:49:17 +0000"
     },
     "done": false
@@ -1323,12 +1337,6 @@
       "has_the_recipe": "2025-01-11 21:28:09 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-01-12 15:45:03 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {

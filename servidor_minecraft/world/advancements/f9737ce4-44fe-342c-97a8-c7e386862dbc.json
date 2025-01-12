@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-01-12 15:51:16 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
@@ -198,6 +204,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-12 15:51:58 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-01-11 21:47:06 +0000"
@@ -328,6 +340,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_pillager_camp": "2025-01-12 15:50:46 +0000",
       "entered_ruined_building": "2025-01-11 22:33:05 +0000"
     },
     "done": false
@@ -731,6 +744,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-12 15:51:58 +0000"
     },
     "done": true
   },
@@ -1325,7 +1344,9 @@
       "minecraft:forest": "2025-01-11 22:14:51 +0000",
       "minecraft:windswept_forest": "2025-01-11 21:58:33 +0000",
       "minecraft:ocean": "2025-01-11 23:12:33 +0000",
-      "minecraft:old_growth_birch_forest": "2025-01-11 21:52:24 +0000"
+      "minecraft:windswept_savanna": "2025-01-12 15:52:52 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-11 21:52:24 +0000",
+      "minecraft:plains": "2025-01-12 15:54:07 +0000"
     },
     "done": false
   },

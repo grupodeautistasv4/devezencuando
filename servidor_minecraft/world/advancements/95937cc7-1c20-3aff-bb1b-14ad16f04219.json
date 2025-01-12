@@ -1159,6 +1159,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-12 15:47:14 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
@@ -1323,7 +1329,8 @@
       "byg:orchard": "2025-01-11 22:14:38 +0000",
       "byg:white_mangrove_marshes": "2025-01-11 21:18:51 +0000",
       "byg:forgotten_forest": "2025-01-11 21:49:25 +0000",
-      "byg:basalt_barrera": "2025-01-11 23:10:52 +0000"
+      "byg:basalt_barrera": "2025-01-11 23:10:52 +0000",
+      "byg:temperate_rainforest": "2025-01-12 15:53:31 +0000"
     },
     "done": false
   },
@@ -1362,6 +1369,7 @@
       "atmospheric:rainforest": "2025-01-11 21:55:44 +0000",
       "minecraft:windswept_hills": "2025-01-11 21:58:37 +0000",
       "minecraft:bamboo_jungle": "2025-01-11 21:58:58 +0000",
+      "minecraft:dark_forest": "2025-01-12 15:53:37 +0000",
       "minecraft:sparse_jungle": "2025-01-11 21:53:30 +0000",
       "minecraft:river": "2025-01-11 21:53:25 +0000",
       "minecraft:forest": "2025-01-11 22:14:51 +0000",
