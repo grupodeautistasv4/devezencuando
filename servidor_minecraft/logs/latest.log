@@ -5167,3 +5167,308 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [12Jan2025 17:01:39.527] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
 [12Jan2025 17:01:39.527] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
 [12Jan2025 17:01:39.527] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[12Jan2025 17:03:35.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura moved too quickly! 4.63552862405777,-90.0,-14.265758693218231
+[12Jan2025 17:04:51.153] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[12Jan2025 17:04:51.334] [Worker-Main14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-131}
+[12Jan2025 17:04:57.217] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[12Jan2025 17:04:57.234] [Worker-Main14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[12Jan2025 17:04:57.234] [Worker-Main14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[12Jan2025 17:07:01.074] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Edouard}[style={}] has been infected
+[12Jan2025 17:07:24.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
+[12Jan2025 17:07:27.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 1856.500000, 92.500000, 2598.500000]
+[12Jan2025 17:07:29.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
+[12Jan2025 17:08:07.235] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:08:07.235] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:08:19.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:08:19.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:08:19.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:08:19.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:09:24.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Iron Golem
+[12Jan2025 17:09:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 1845.500000, 85.500000, 2569.500000]
+[12Jan2025 17:09:47.628] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Edouard}[style={}] has been infected
+[12Jan2025 17:10:07.025] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Edouard}[style={}] has been infected
+[12Jan2025 17:10:10.750] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[12Jan2025 17:10:10.808] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[12Jan2025 17:10:10.834] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[12Jan2025 17:10:10.861] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[12Jan2025 17:10:10.886] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[12Jan2025 17:10:10.934] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[12Jan2025 17:10:10.991] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[12Jan2025 17:10:11.029] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[12Jan2025 17:10:11.078] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[12Jan2025 17:10:11.138] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[12Jan2025 17:10:11.188] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[12Jan2025 17:10:11.234] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[12Jan2025 17:10:11.478] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[12Jan2025 17:10:11.478] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[12Jan2025 17:10:11.501] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[12Jan2025 17:10:11.592] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20c28136
+[12Jan2025 17:10:11.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.100.40.17:62386] logged in with entity id 115856 at (1164.5547626669008, 69.0, 2398.6492713980183)
+[12Jan2025 17:10:11.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Secrethaks
+[12Jan2025 17:10:11.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Secrethaks
+[12Jan2025 17:10:11.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Secrethaks
+[12Jan2025 17:10:11.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Secrethaks
+[12Jan2025 17:10:11.638] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Secrethaks
+[12Jan2025 17:10:11.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Secrethaks
+[12Jan2025 17:10:11.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Secrethaks
+[12Jan2025 17:10:11.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[12Jan2025 17:10:11.799] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[12Jan2025 17:10:11.928] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Secrethaks...
+[12Jan2025 17:10:11.928] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[12Jan2025 17:10:11.929] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Jan2025 17:10:11.929] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Secrethaks
+[12Jan2025 17:10:26.347] [Worker-Main14/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 2153 141 2500
+[12Jan2025 17:10:27.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Edouard'/115320, l='ServerLevel[world]', x=1870.30, y=114.25, z=2530.51] died, message: 'Edouard was slain by Zombie'
+[12Jan2025 17:10:27.274] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Edouard'/115320, l='ServerLevel[world]', x=1870.30, y=114.25, z=2530.51] died: Edouard was slain by Zombie
+[12Jan2025 17:10:45.788] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:10:45.788] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:10:45.788] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:10:45.788] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:11:16.030] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1813, y=-13, z=2097} but found not block entity block Block{minecraft:cave_air} at location
+[12Jan2025 17:11:16.030] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1813, y=-13, z=2097}
+[12Jan2025 17:11:43.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:11:43.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:11:43.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:11:45.204] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[12Jan2025 17:12:34.988] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:12:34.988] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:12:34.988] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:12:34.988] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:13:12.904] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:13:12.904] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:13:23.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Drowned
+[12Jan2025 17:13:29.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 2075.500000, 55.500000, 2166.500000]
+[12Jan2025 17:13:30.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Drowned
+[12Jan2025 17:13:32.843] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:13:32.844] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:13:32.844] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:13:32.844] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:13:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 2075.500000, 54.500000, 2166.500000]
+[12Jan2025 17:13:36.593] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:13:36.594] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:13:43.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:13:43.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:13:47.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Drowned
+[12Jan2025 17:13:50.851] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:13:50.852] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:13:50.852] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:13:51.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 2074.500000, 56.500000, 2166.500000]
+[12Jan2025 17:13:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Drowned
+[12Jan2025 17:14:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 2074.500000, 56.500000, 2166.500000]
+[12Jan2025 17:14:16.469] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:14:16.470] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:14:16.470] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:14:16.470] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:14:16.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:14:16.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:14:18.910] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:14:18.910] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:14:18.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1704, y=-13, z=2100} but found not block entity block Block{minecraft:cave_air} at location
+[12Jan2025 17:14:18.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1704, y=-13, z=2100}
+[12Jan2025 17:14:18.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1701, y=-13, z=2100} but found not block entity block Block{minecraft:cave_air} at location
+[12Jan2025 17:14:18.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1701, y=-13, z=2100}
+[12Jan2025 17:14:21.545] [Worker-Main8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[12Jan2025 17:14:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura drowned
+[12Jan2025 17:14:27.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 2075.500000, 56.500000, 2164.500000]
+[12Jan2025 17:14:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has completed the challenge [Centennial]
+[12Jan2025 17:16:21.286] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:16:21.287] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:16:21.287] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:16:21.287] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:17:41.436] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:17:41.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:17:45.827] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2414, y=37, z=2292}
+[12Jan2025 17:18:07.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:18:07.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:18:44.894] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:18:44.894] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:18:44.895] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:18:44.895] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:18:52.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:18:52.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:18:52.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:18:52.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:19:19.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Mine? Mine? Mine?]
+[12Jan2025 17:19:20.223] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.225] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.225] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.225] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.226] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.226] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.227] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.227] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.227] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.227] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:19:20.802] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:19:20.802] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:19:20.802] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:19:20.894] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:19:20.894] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:19:20.894] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:19:41.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:19:41.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:19:41.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:19:41.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:19:50.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -14.594101042452849,-1.428890062104557,-10.608099716464949
+[12Jan2025 17:19:51.151] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:19:51.151] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:20:01.842] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:20:01.842] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:20:01.842] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:20:01.842] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Shadewraith
+[12Jan2025 17:21:09.641] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 17:21:09.649] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 17:21:10.023] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:21:17.189] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/62744, l='ServerLevel[world]', x=503.98, y=89.03, z=2097.69, removed=KILLED]
+[12Jan2025 17:21:18.650] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:21:18.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:18.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:21:18.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:19.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:21:19.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:21:19.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:21:21.243] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:21:21.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:21:21.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:21:21.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:21:27.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:27.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:21:27.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:36.090] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:21:36.091] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:21:36.091] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:21:36.504] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:21:36.504] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:36.505] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:37.497] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:37.498] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:21:37.498] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:40.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:21:40.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:40.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:21:40.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:21:40.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:21:46.905] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[12Jan2025 17:21:47.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[12Jan2025 17:22:28.872] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:22:28.872] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:22:28.872] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:22:28.872] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:22:59.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Assassin
+[12Jan2025 17:23:01.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -1641.0567145772734,-15.4375,-437.38795461979726
+[12Jan2025 17:23:01.440] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 17:23:01.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 17:23:01.801] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:23:02.423] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[12Jan2025 17:23:02.423] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[12Jan2025 17:23:06.934] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/62744, l='ServerLevel[world]', x=503.98, y=89.03, z=2097.69, removed=KILLED]
+[12Jan2025 17:23:07.286] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:23:07.287] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:23:07.287] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:23:07.287] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:23:10.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:23:10.585] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:23:13.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:23:13.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:23:13.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:23:20.194] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:23:20.195] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:23:20.195] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:23:20.195] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:23:30.106] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:23:30.107] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:23:30.107] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:23:36.788] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:23:36.789] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:23:36.789] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:23:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Shadow Spectre
+[12Jan2025 17:23:37.399] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:23:37.400] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:23:37.400] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:23:41.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 1943.500000, 80.500000, 2357.500000]
+[12Jan2025 17:23:44.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Assassin
+[12Jan2025 17:23:46.852] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:23:46.852] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:23:46.852] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:23:46.852] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:23:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 1943.500000, 79.500000, 2359.500000]
+[12Jan2025 17:24:28.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:24:28.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:24:28.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:24:28.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:24:31.944] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:24:31.944] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:24:31.944] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:24:34.751] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 17:24:34.751] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 17:24:35.002] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:24:42.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:24:42.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:24:42.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:24:48.540] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/149793, l='ServerLevel[world]', x=1011.12, y=335.58, z=2013.59, removed=KILLED]
+[12Jan2025 17:24:50.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:24:50.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:24:50.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:24:51.149] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:24:51.149] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:24:51.149] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:24:58.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:24:58.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:24:58.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:25:01.013] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/62744, l='ServerLevel[world]', x=503.98, y=89.03, z=2097.69, removed=KILLED]
+[12Jan2025 17:25:02.778] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:25:03.694] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:25:05.335] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 17:25:08.083] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 17:30:38.659] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/62744, l='ServerLevel[world]', x=503.98, y=89.03, z=2097.69, removed=KILLED]
+[12Jan2025 17:30:39.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:30:39.533] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:30:39.533] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:30:40.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:30:40.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:30:40.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:30:40.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:30:42.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:30:42.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:30:42.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:30:43.312] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:30:43.312] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 17:30:46.106] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 17:31:16.561] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[12Jan2025 17:31:16.593] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[12Jan2025 17:31:16.650] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[12Jan2025 17:31:16.695] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[12Jan2025 17:31:16.746] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[12Jan2025 17:31:16.798] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[12Jan2025 17:31:16.850] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[12Jan2025 17:31:16.898] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[12Jan2025 17:31:16.950] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[12Jan2025 17:31:16.998] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[12Jan2025 17:31:17.048] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[12Jan2025 17:31:17.097] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[12Jan2025 17:31:18.091] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[12Jan2025 17:31:18.095] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[12Jan2025 17:31:18.107] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[12Jan2025 17:31:18.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b3c6eb8
+[12Jan2025 17:31:18.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capybarav2[/100.126.98.55:60750] logged in with entity id 153035 at (299.7385101010025, 65.0, 1936.244121076776)
+[12Jan2025 17:31:18.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to capybarav2
+[12Jan2025 17:31:18.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to capybarav2
+[12Jan2025 17:31:18.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to capybarav2
+[12Jan2025 17:31:18.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to capybarav2
+[12Jan2025 17:31:18.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to capybarav2
+[12Jan2025 17:31:18.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to capybarav2
+[12Jan2025 17:31:18.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to capybarav2
+[12Jan2025 17:31:18.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 joined the game
+[12Jan2025 17:31:18.304] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 17:31:18.304] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 17:31:18.331] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:31:18.411] [Server thread/INFO] [Jade/]: Syncing config to capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc)
+[12Jan2025 17:31:18.492] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to capybarav2...
+[12Jan2025 17:31:18.492] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[12Jan2025 17:31:18.492] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Jan2025 17:31:18.493] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to capybarav2
+[12Jan2025 17:31:36.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
+[12Jan2025 17:31:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[12Jan2025 17:32:10.201] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/27369, l='ServerLevel[world]', x=162.50, y=115.61, z=2209.51, removed=KILLED]
+[12Jan2025 17:33:14.390] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/89265, l='ServerLevel[world]', x=-57.42, y=154.90, z=2072.73, removed=KILLED]
