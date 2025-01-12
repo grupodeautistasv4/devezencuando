@@ -293,7 +293,8 @@
     "criteria": {
       "atmospheric:shimmering_passion_fruit": "2025-01-11 22:07:06 +0000",
       "bread": "2025-01-11 22:07:44 +0000",
-      "golden_apple": "2025-01-12 15:13:11 +0000"
+      "golden_apple": "2025-01-12 15:13:11 +0000",
+      "golden_carrot": "2025-01-12 17:33:36 +0000"
     },
     "done": false
   },
@@ -825,15 +826,15 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-01-12 15:51:58 +0000"
-    },
-    "done": true
-  },
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2025-01-12 15:20:10 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-12 15:51:58 +0000"
     },
     "done": true
   },
@@ -855,15 +856,15 @@
     },
     "done": true
   },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-01-12 16:11:28 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-12 15:04:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-12 16:11:28 +0000"
     },
     "done": true
   },
@@ -1721,6 +1722,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-01-12 17:40:54 +0000"
     },
     "done": true
   },

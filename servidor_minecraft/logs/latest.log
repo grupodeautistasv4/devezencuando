@@ -5472,3 +5472,102 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [12Jan2025 17:31:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
 [12Jan2025 17:32:10.201] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/27369, l='ServerLevel[world]', x=162.50, y=115.61, z=2209.51, removed=KILLED]
 [12Jan2025 17:33:14.390] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/89265, l='ServerLevel[world]', x=-57.42, y=154.90, z=2072.73, removed=KILLED]
+[12Jan2025 17:35:10.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Orange You Glad?]
+[12Jan2025 17:35:35.289] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:35:35.289] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:35:35.289] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:35:35.289] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:35:55.572] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/155566, l='ServerLevel[world]', x=-260.50, y=55.00, z=2242.50]
+[12Jan2025 17:36:39.583] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:36:39.583] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:36:39.583] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:36:39.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:36:56.740] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:36:56.993] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/62744, l='ServerLevel[world]', x=503.98, y=89.03, z=2097.69, removed=KILLED]
+[12Jan2025 17:37:01.037] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:37:06.195] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:37:06.195] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:37:06.196] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 17:37:06.196] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:37:08.309] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:37:08.310] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:37:08.310] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:37:08.310] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:37:37.784] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:37:37.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:37:37.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:38:41.643] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/149793, l='ServerLevel[world]', x=1011.12, y=335.58, z=2013.59, removed=KILLED]
+[12Jan2025 17:38:44.589] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[12Jan2025 17:39:01.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:39:01.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:39:01.753] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:39:03.847] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:39:03.847] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:39:03.847] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:39:11.573] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:39:11.573] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:39:11.573] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:39:40.686] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[12Jan2025 17:39:52.936] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[12Jan2025 17:40:02.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [You Are A Pirate]
+[12Jan2025 17:40:08.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:40:08.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:40:08.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:40:12.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to 306.500000, 64.500000, 1931.500000]
+[12Jan2025 17:40:12.648] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 17:40:12.649] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 17:40:12.763] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 17:40:16.602] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:40:16.611] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:40:16.611] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:40:16.612] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 17:40:47.441] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 17:40:47.441] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:40:47.441] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:40:54.396] [Worker-Main2/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[12Jan2025 17:40:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Imbued]
+[12Jan2025 17:41:29.044] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:29.045] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:30.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -2.857936556674076,0.0,9.802112323030087
+[12Jan2025 17:41:30.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -2.914662560995339,0.0,10.006559065251167
+[12Jan2025 17:41:30.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -2.965715963532034,0.0,10.190561128375975
+[12Jan2025 17:41:30.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -3.0116640245978488,0.0,10.3561629808014
+[12Jan2025 17:41:30.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -3.053017278461539,0.0,10.505204644035985
+[12Jan2025 17:41:30.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -3.090235205952922,0.0,10.639342137393669
+[12Jan2025 17:41:30.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -3.1237313398078186,0.0,10.760065878217574
+[12Jan2025 17:41:30.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -3.153877859478598,0.0,10.868717242080493
+[12Jan2025 17:41:30.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -3.1810097264635715,0.0,10.96650346696697
+[12Jan2025 17:41:30.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -3.2054284061032376,0.0,11.054511067033218
+[12Jan2025 17:41:30.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -3.227405217196747,0.0,11.133717904994683
+[12Jan2025 17:41:45.199] [Worker-Main3/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[12Jan2025 17:41:48.282] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
+[12Jan2025 17:41:48.497] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[12Jan2025 17:41:54.864] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:54.865] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:54.865] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:54.865] [Worker-Main14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:41:57.904] [Worker-Main14/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[12Jan2025 17:42:01.745] [Worker-Main8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 17:42:57.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:42:57.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:42:57.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:42:57.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 17:43:04.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -5.708780291110656,0.0,8.676190524336562
+[12Jan2025 17:43:04.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -5.934559502710954,0.0,9.006242021415346
+[12Jan2025 17:43:04.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -6.160516384554967,0.0,9.33618490570143
+[12Jan2025 17:43:04.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nezmanmatalaura) moved too quickly! -6.386636323072253,0.0,9.666027859181668
+[12Jan2025 17:43:06.052] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:43:06.053] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:43:06.053] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:44:09.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 17:44:09.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 17:44:09.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 17:44:09.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
