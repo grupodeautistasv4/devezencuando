@@ -6304,3 +6304,77 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [12Jan2025 19:15:41.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
 [12Jan2025 19:16:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Unbreaking X]
 [12Jan2025 19:17:02.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[12Jan2025 19:17:37.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has reached the goal [Quaint Scribe]
+[12Jan2025 19:19:08.028] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:19:08.028] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:19:08.028] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:19:13.291] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 19:19:13.292] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 19:19:13.292] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 19:19:13.292] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 19:19:21.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[12Jan2025 19:19:22.020] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 19:19:22.025] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 19:19:22.025] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/176760, l='ServerLevel[world]', x=304.68, y=79.44, z=1821.37, removed=KILLED]
+[12Jan2025 19:19:22.025] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 19:19:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Enchanter]
+[12Jan2025 19:19:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Eterna, Quanta, Arcana]
+[12Jan2025 19:21:39.925] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:21:39.925] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:21:39.926] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:22:41.180] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketHotkeyPressed$Key
+[12Jan2025 19:23:00.185] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 19:23:00.185] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 19:23:00.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 19:23:00.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:24:32.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura lost connection: Disconnected
+[12Jan2025 19:24:32.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura left the game
+[12Jan2025 19:24:32.524] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jan2025 19:25:25.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 lost connection: Disconnected
+[12Jan2025 19:25:25.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 left the game
+[12Jan2025 19:26:13.026] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[12Jan2025 19:26:13.057] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[12Jan2025 19:26:13.105] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[12Jan2025 19:26:13.156] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[12Jan2025 19:26:13.206] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[12Jan2025 19:26:13.281] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[12Jan2025 19:26:13.306] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[12Jan2025 19:26:13.355] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[12Jan2025 19:26:13.406] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[12Jan2025 19:26:13.461] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[12Jan2025 19:26:13.506] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[12Jan2025 19:26:13.554] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[12Jan2025 19:26:14.494] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[12Jan2025 19:26:14.497] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[12Jan2025 19:26:14.503] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[12Jan2025 19:26:14.572] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e4c4152
+[12Jan2025 19:26:14.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nezmanmatalaura[/100.89.118.13:59342] logged in with entity id 226509 at (300.6435007625411, 64.0, 1927.408394321482)
+[12Jan2025 19:26:14.609] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to nezmanmatalaura
+[12Jan2025 19:26:14.610] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to nezmanmatalaura
+[12Jan2025 19:26:14.610] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to nezmanmatalaura
+[12Jan2025 19:26:14.610] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to nezmanmatalaura
+[12Jan2025 19:26:14.611] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to nezmanmatalaura
+[12Jan2025 19:26:14.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to nezmanmatalaura
+[12Jan2025 19:26:14.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to nezmanmatalaura
+[12Jan2025 19:26:14.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura joined the game
+[12Jan2025 19:26:14.682] [Server thread/INFO] [Jade/]: Syncing config to nezmanmatalaura (95937cc7-1c20-3aff-bb1b-14ad16f04219)
+[12Jan2025 19:26:14.764] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to nezmanmatalaura...
+[12Jan2025 19:26:14.764] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[12Jan2025 19:26:14.764] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Jan2025 19:26:14.765] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nezmanmatalaura
+[12Jan2025 19:26:15.283] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 19:26:15.292] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 19:26:15.388] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/176760, l='ServerLevel[world]', x=304.68, y=79.44, z=1821.37, removed=KILLED]
+[12Jan2025 19:26:15.638] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 19:26:54.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has reached the goal [Adventurer ]
+[12Jan2025 19:33:15.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to 102.500000, 91.500000, 100.500000]
+[12Jan2025 19:33:27.590] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:33:27.590] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 19:33:27.590] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 19:33:27.591] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:34:41.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Super Creeps]
+[12Jan2025 19:34:50.832] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 19:34:50.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 19:34:50.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:36:00.628] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/228873, l='ServerLevel[world]', x=145.80, y=87.01, z=323.70] died: Dinnerbone was killed by nezmanmatalaura's magic missile
+[12Jan2025 19:36:03.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/228874, l='ServerLevel[world]', x=142.30, y=87.01, z=321.66] died: Dinnerbone was killed by nezmanmatalaura's magic missile

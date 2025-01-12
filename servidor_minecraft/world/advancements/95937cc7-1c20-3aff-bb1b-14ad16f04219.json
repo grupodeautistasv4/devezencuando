@@ -608,6 +608,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-01-12 19:34:41 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
@@ -677,6 +683,8 @@
       "minecraft:spider": "2025-01-12 16:15:39 +0000",
       "minecraft:creeper": "2025-01-11 22:27:43 +0000",
       "minecraft:witch": "2025-01-11 22:28:19 +0000",
+      "minecraft:wither_skeleton": "2025-01-12 19:36:10 +0000",
+      "minecraft:cave_spider": "2025-01-12 19:35:20 +0000",
       "minecraft:silverfish": "2025-01-11 21:56:41 +0000",
       "minecraft:zombie": "2025-01-11 21:53:02 +0000",
       "minecraft:drowned": "2025-01-11 21:47:02 +0000"
@@ -924,6 +932,12 @@
     },
     "done": true
   },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-01-12 19:26:54 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
@@ -935,6 +949,12 @@
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "ratatouille": "2025-01-12 19:34:30 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
@@ -1738,6 +1758,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-01-12 15:57:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-12 19:34:30 +0000"
     },
     "done": true
   },

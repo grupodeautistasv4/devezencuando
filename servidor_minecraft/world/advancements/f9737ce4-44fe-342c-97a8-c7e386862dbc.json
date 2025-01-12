@@ -382,6 +382,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-01-12 19:17:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-12 16:19:09 +0000",
@@ -688,6 +694,12 @@
     },
     "done": false
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-12 19:19:51 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-01-12 14:35:31 +0000"
@@ -941,6 +953,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-01-12 19:19:51 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
@@ -965,6 +983,12 @@
       "has_parent_recipe": "2025-01-11 23:13:29 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-12 19:17:37 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -1614,6 +1638,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-12 19:17:37 +0000"
     },
     "done": true
   },
