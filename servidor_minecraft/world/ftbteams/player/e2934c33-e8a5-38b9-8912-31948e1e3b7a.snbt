@@ -2,9 +2,7 @@
 	id: "e2934c33-e8a5-38b9-8912-31948e1e3b7a"
 	type: "player"
 	player_name: "Secrethaks"
-	ranks: {
-		e2934c33-e8a5-38b9-8912-31948e1e3b7a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Secrethaks"
 		"ftbteams:description": ""

@@ -2,9 +2,7 @@
 	id: "f9737ce4-44fe-342c-97a8-c7e386862dbc"
 	type: "player"
 	player_name: "capybarav2"
-	ranks: {
-		f9737ce4-44fe-342c-97a8-c7e386862dbc: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "capybarav2"
 		"ftbteams:description": ""

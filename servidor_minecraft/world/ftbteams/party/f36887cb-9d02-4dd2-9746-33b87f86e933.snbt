@@ -1,0 +1,36 @@
+{
+	id: "f36887cb-9d02-4dd2-9746-33b87f86e933"
+	type: "party"
+	owner: "e2934c33-e8a5-38b9-8912-31948e1e3b7a"
+	ranks: {
+		95937cc7-1c20-3aff-bb1b-14ad16f04219: "member"
+		f9737ce4-44fe-342c-97a8-c7e386862dbc: "member"
+		e2934c33-e8a5-38b9-8912-31948e1e3b7a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Niggasex"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CDFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736693734348L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Secrethaks\"}]}" }
+		{ from: "e2934c33-e8a5-38b9-8912-31948e1e3b7a", date: 1736693734358L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"nezmanmatalaura\"}]}" }
+		{ from: "e2934c33-e8a5-38b9-8912-31948e1e3b7a", date: 1736693734358L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"capybarav2\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736693737763L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"nezmanmatalaura\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736693738309L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"capybarav2\"}]}" }
+	]
+	extra: { }
+}

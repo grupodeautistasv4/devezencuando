@@ -352,6 +352,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_large_dungeon": "2025-01-12 14:53:23 +0000",
       "entered_ruined_building": "2025-01-11 22:33:17 +0000"
     },
     "done": false
@@ -515,6 +516,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-01-11 22:35:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-01-12 14:53:23 +0000"
     },
     "done": true
   },

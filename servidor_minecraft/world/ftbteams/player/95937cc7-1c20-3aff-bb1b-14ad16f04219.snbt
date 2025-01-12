@@ -2,9 +2,7 @@
 	id: "95937cc7-1c20-3aff-bb1b-14ad16f04219"
 	type: "player"
 	player_name: "nezmanmatalaura"
-	ranks: {
-		95937cc7-1c20-3aff-bb1b-14ad16f04219: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "nezmanmatalaura"
 		"ftbteams:description": ""

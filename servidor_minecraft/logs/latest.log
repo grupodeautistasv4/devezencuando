@@ -3974,3 +3974,59 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [12Jan2025 14:46:46.663] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
 [12Jan2025 14:46:46.663] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
 [12Jan2025 14:46:46.663] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[12Jan2025 14:51:43.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 14:51:43.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 14:51:43.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 14:53:23.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [What a Dungeon!]
+[12Jan2025 14:53:48.892] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[12Jan2025 14:53:48.917] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[12Jan2025 14:53:48.966] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[12Jan2025 14:53:49.016] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[12Jan2025 14:53:49.068] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[12Jan2025 14:53:49.121] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[12Jan2025 14:53:49.169] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[12Jan2025 14:53:49.215] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[12Jan2025 14:53:49.266] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[12Jan2025 14:53:49.320] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[12Jan2025 14:53:49.370] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[12Jan2025 14:53:49.419] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[12Jan2025 14:53:50.875] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[12Jan2025 14:53:50.879] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[12Jan2025 14:53:50.993] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[12Jan2025 14:53:51.089] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e36f67c
+[12Jan2025 14:53:51.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alambre[/100.98.220.98:56587] logged in with entity id 9183 at (76.69999998807907, 67.0, 2218.13811498197)
+[12Jan2025 14:53:51.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Alambre
+[12Jan2025 14:53:51.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Alambre
+[12Jan2025 14:53:51.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Alambre
+[12Jan2025 14:53:51.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Alambre
+[12Jan2025 14:53:51.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Alambre
+[12Jan2025 14:53:51.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Alambre
+[12Jan2025 14:53:51.143] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Alambre
+[12Jan2025 14:53:51.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre joined the game
+[12Jan2025 14:53:51.247] [Server thread/INFO] [Jade/]: Syncing config to Alambre (626e308e-9aaf-33be-8561-42ce9aa1e4bb)
+[12Jan2025 14:53:51.323] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Alambre...
+[12Jan2025 14:53:51.323] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[12Jan2025 14:53:51.323] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Jan2025 14:53:51.324] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Alambre
+[12Jan2025 14:53:54.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 14:53:54.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 14:54:16.232] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[12Jan2025 14:54:16.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set the time to 1000]
+[12Jan2025 14:54:49.884] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 14:54:49.885] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 14:54:49.885] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 14:54:54.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[12Jan2025 14:55:00.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 14:55:00.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 14:55:00.088] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 14:55:27.598] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[12Jan2025 14:55:36.531] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 14:55:36.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 14:55:36.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 14:55:36.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 14:56:05.940] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 14:56:05.941] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 14:56:08.135] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 14:56:08.135] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 14:56:08.136] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 14:56:11.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved wrongly!
