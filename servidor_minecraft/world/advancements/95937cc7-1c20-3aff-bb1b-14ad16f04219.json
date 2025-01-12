@@ -427,6 +427,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-01-12 18:09:11 +0000"
+    },
+    "done": false
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-01-11 21:18:50 +0000"
@@ -883,6 +889,12 @@
   "byg:husbandry/forager": {
     "criteria": {
       "white_puffball_cap": "2025-01-11 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-12 18:07:45 +0000"
     },
     "done": true
   },
@@ -1384,6 +1396,7 @@
     "criteria": {
       "byg:allium_fields": "2025-01-11 21:58:38 +0000",
       "byg:prairie": "2025-01-11 22:28:17 +0000",
+      "byg:rainbow_beach": "2025-01-12 18:02:32 +0000",
       "byg:orchard": "2025-01-11 22:14:38 +0000",
       "byg:red_oak_forest": "2025-01-12 17:22:40 +0000",
       "byg:white_mangrove_marshes": "2025-01-11 21:18:51 +0000",
@@ -1437,6 +1450,7 @@
       "minecraft:dark_forest": "2025-01-12 15:53:37 +0000",
       "minecraft:sparse_jungle": "2025-01-11 21:53:30 +0000",
       "minecraft:river": "2025-01-11 21:53:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-12 18:02:33 +0000",
       "minecraft:stony_shore": "2025-01-12 17:11:25 +0000",
       "minecraft:dripstone_caves": "2025-01-12 16:44:00 +0000",
       "minecraft:grove": "2025-01-12 17:01:27 +0000",
@@ -1636,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-12 18:09:11 +0000"
+    },
+    "done": true
+  },
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
@@ -1684,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2025-01-12 18:07:45 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
@@ -1717,6 +1743,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-01-12 17:49:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2025-01-12 18:08:03 +0000"
     },
     "done": true
   },

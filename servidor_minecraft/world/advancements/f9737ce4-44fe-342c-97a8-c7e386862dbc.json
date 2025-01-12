@@ -935,6 +935,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-01-12 17:54:52 +0000",
+      "carrot": "2025-01-12 17:58:08 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
@@ -1555,6 +1562,12 @@
       "has_parent_recipe": "2025-01-11 23:13:29 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-12 17:54:52 +0000"
+    },
+    "done": true
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
