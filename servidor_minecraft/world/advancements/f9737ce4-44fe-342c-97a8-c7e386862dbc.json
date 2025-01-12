@@ -1020,6 +1020,12 @@
     },
     "done": true
   },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-01-12 18:56:57 +0000"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
