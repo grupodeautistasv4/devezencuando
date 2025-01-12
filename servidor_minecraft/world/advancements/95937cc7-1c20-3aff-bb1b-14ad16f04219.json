@@ -660,6 +660,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-11 22:24:42 +0000",
       "minecraft:skeleton": "2025-01-11 21:53:28 +0000",
+      "minecraft:vindicator": "2025-01-12 18:16:57 +0000",
       "minecraft:spider": "2025-01-12 16:15:39 +0000",
       "minecraft:creeper": "2025-01-11 22:27:43 +0000",
       "minecraft:witch": "2025-01-11 22:28:19 +0000",
@@ -1399,11 +1400,14 @@
       "byg:rainbow_beach": "2025-01-12 18:02:32 +0000",
       "byg:orchard": "2025-01-11 22:14:38 +0000",
       "byg:red_oak_forest": "2025-01-12 17:22:40 +0000",
+      "byg:dead_sea": "2025-01-12 18:18:58 +0000",
       "byg:white_mangrove_marshes": "2025-01-11 21:18:51 +0000",
       "byg:aspen_forest": "2025-01-12 15:59:24 +0000",
       "byg:forgotten_forest": "2025-01-11 21:49:25 +0000",
       "byg:baobab_savanna": "2025-01-12 17:48:29 +0000",
+      "byg:amaranth_fields": "2025-01-12 18:14:59 +0000",
       "byg:basalt_barrera": "2025-01-11 23:10:52 +0000",
+      "byg:lush_stacks": "2025-01-12 18:17:16 +0000",
       "byg:temperate_rainforest": "2025-01-12 15:53:31 +0000"
     },
     "done": false
@@ -1438,10 +1442,17 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 18:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-12 17:00:00 +0000",
       "minecraft:deep_ocean": "2025-01-12 17:16:13 +0000",
+      "atmospheric:rainforest_basin": "2025-01-12 18:18:14 +0000",
       "atmospheric:rainforest": "2025-01-11 21:55:44 +0000",
       "minecraft:birch_forest": "2025-01-12 15:59:26 +0000",
       "minecraft:windswept_hills": "2025-01-11 21:58:37 +0000",
@@ -1458,6 +1469,7 @@
       "minecraft:forest": "2025-01-11 22:14:51 +0000",
       "minecraft:windswept_forest": "2025-01-11 21:58:34 +0000",
       "minecraft:ocean": "2025-01-11 23:10:01 +0000",
+      "atmospheric:sparse_rainforest_basin": "2025-01-12 18:15:38 +0000",
       "minecraft:frozen_peaks": "2025-01-12 17:00:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-12 14:37:03 +0000",
       "atmospheric:laurel_forest": "2025-01-12 16:40:36 +0000",
@@ -1489,6 +1501,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-12 18:16:49 +0000"
     },
     "done": true
   },
