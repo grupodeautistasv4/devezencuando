@@ -1268,6 +1268,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-01-11 23:18:46 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:28:09 +0000"

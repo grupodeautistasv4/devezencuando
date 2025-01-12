@@ -168,17 +168,17 @@
     },
     "done": false
   },
-  "enigmaticlegacy:recipes/generic/heaven_scroll": {
-    "criteria": {
-      "has_parent_recipe": "2025-01-11 23:13:29 +0000"
-    },
-    "done": false
-  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-01-11 21:53:01 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-11 23:13:29 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_pink_from_white": {
     "criteria": {
@@ -439,21 +439,27 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/thicc_scroll": {
-    "criteria": {
-      "has_items": "2025-01-11 23:13:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-11 21:44:20 +0000"
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2025-01-11 23:13:29 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-01-11 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-01-12 14:33:43 +0000"
     },
     "done": true
   },
@@ -553,6 +559,12 @@
       "log_spam_fixer": "2025-01-11 21:18:54 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-01-12 14:35:31 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -978,6 +990,12 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-12 14:35:01 +0000"
     },
     "done": true
   },
