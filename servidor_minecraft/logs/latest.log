@@ -6189,3 +6189,118 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [12Jan2025 19:05:08.276] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
 [12Jan2025 19:05:08.277] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/176760, l='ServerLevel[world]', x=304.68, y=79.44, z=1821.37, removed=KILLED]
 [12Jan2025 19:05:08.277] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 19:06:59.028] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:06:59.028] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:06:59.029] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 19:07:19.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:07:19.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:07:19.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 19:07:19.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:07:27.630] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[12Jan2025 19:07:27.631] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 19:07:31.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:07:31.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:07:31.783] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:07:46.690] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[12Jan2025 19:07:46.691] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:08:04.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=205, y=68, z=1924} BlockPos{x=205, y=67, z=1927}
+[12Jan2025 19:08:05.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=205, y=68, z=1924} BlockPos{x=205, y=67, z=1927}
+[12Jan2025 19:08:06.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=68, z=1926} BlockPos{x=204, y=67, z=1922}
+[12Jan2025 19:08:09.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=199, y=69, z=1931} BlockPos{x=201, y=68, z=1930}
+[12Jan2025 19:08:09.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=200, y=69, z=1929} BlockPos{x=201, y=68, z=1930}
+[12Jan2025 19:08:09.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=69, z=1929} BlockPos{x=200, y=68, z=1933}
+[12Jan2025 19:08:23.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:08:23.840] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[12Jan2025 19:08:23.840] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[12Jan2025 19:08:31.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=179, y=71, z=1979} BlockPos{x=179, y=70, z=1978}
+[12Jan2025 19:08:31.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=178, y=71, z=1979} BlockPos{x=179, y=70, z=1978}
+[12Jan2025 19:08:31.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=178, y=71, z=1979} BlockPos{x=179, y=70, z=1978}
+[12Jan2025 19:08:32.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=177, y=71, z=1980} BlockPos{x=179, y=70, z=1978}
+[12Jan2025 19:08:59.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:08:59.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 19:09:02.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=69, z=2003} BlockPos{x=172, y=68, z=2003}
+[12Jan2025 19:09:02.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=70, z=2003} BlockPos{x=172, y=68, z=2003}
+[12Jan2025 19:09:02.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=70, z=2003} BlockPos{x=172, y=68, z=2003}
+[12Jan2025 19:09:02.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=69, z=2006} BlockPos{x=174, y=68, z=2005}
+[12Jan2025 19:09:05.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=69, z=2010} BlockPos{x=179, y=69, z=2012}
+[12Jan2025 19:09:11.635] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/27369, l='ServerLevel[world]', x=162.50, y=115.61, z=2209.51, removed=KILLED]
+[12Jan2025 19:09:13.835] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:09:13.835] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:09:13.835] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 19:09:13.835] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:09:21.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=166, y=69, z=2036} BlockPos{x=166, y=68, z=2036}
+[12Jan2025 19:09:32.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=178, y=71, z=2031} BlockPos{x=179, y=70, z=2031}
+[12Jan2025 19:09:48.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=72, z=2006} BlockPos{x=197, y=71, z=2008}
+[12Jan2025 19:09:48.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=72, z=2006} BlockPos{x=197, y=71, z=2008}
+[12Jan2025 19:09:48.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=200, y=72, z=2006} BlockPos{x=197, y=71, z=2008}
+[12Jan2025 19:09:48.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=199, y=72, z=2007} BlockPos{x=197, y=71, z=2008}
+[12Jan2025 19:09:55.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=74, z=2012} BlockPos{x=220, y=73, z=2011}
+[12Jan2025 19:09:55.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=74, z=2011} BlockPos{x=220, y=73, z=2011}
+[12Jan2025 19:10:04.779] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/27369, l='ServerLevel[world]', x=162.50, y=115.61, z=2209.51, removed=KILLED]
+[12Jan2025 19:10:04.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=71, z=2022} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=71, z=2021} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=71, z=2021} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=71, z=2021} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=71, z=2021} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=71, z=2023} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=71, z=2023} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=71, z=2024} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=71, z=2025} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:05.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=71, z=2025} BlockPos{x=198, y=70, z=2024}
+[12Jan2025 19:10:07.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=71, z=2031} BlockPos{x=195, y=70, z=2032}
+[12Jan2025 19:10:10.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=70, z=2037} BlockPos{x=189, y=69, z=2038}
+[12Jan2025 19:10:16.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=185, y=70, z=2027} BlockPos{x=186, y=69, z=2028}
+[12Jan2025 19:10:17.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=71, z=2026} BlockPos{x=189, y=70, z=2025}
+[12Jan2025 19:10:31.232] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/176760, l='ServerLevel[world]', x=304.68, y=79.44, z=1821.37, removed=KILLED]
+[12Jan2025 19:10:36.731] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 19:11:40.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> a
+[12Jan2025 19:11:57.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura lost connection: Disconnected
+[12Jan2025 19:11:57.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura left the game
+[12Jan2025 19:12:12.611] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[12Jan2025 19:12:12.683] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[12Jan2025 19:12:12.712] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[12Jan2025 19:12:12.761] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[12Jan2025 19:12:12.811] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[12Jan2025 19:12:12.862] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[12Jan2025 19:12:12.911] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[12Jan2025 19:12:12.960] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[12Jan2025 19:12:13.013] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[12Jan2025 19:12:13.064] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[12Jan2025 19:12:13.124] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[12Jan2025 19:12:13.161] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[12Jan2025 19:12:13.333] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[12Jan2025 19:12:13.335] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[12Jan2025 19:12:13.352] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[12Jan2025 19:12:13.426] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8173031
+[12Jan2025 19:12:13.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nezmanmatalaura[/100.89.118.13:59222] logged in with entity id 224093 at (308.6751066358935, 64.0, 1929.772606381875)
+[12Jan2025 19:12:13.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to nezmanmatalaura
+[12Jan2025 19:12:13.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to nezmanmatalaura
+[12Jan2025 19:12:13.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to nezmanmatalaura
+[12Jan2025 19:12:13.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to nezmanmatalaura
+[12Jan2025 19:12:13.468] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to nezmanmatalaura
+[12Jan2025 19:12:13.470] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to nezmanmatalaura
+[12Jan2025 19:12:13.470] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to nezmanmatalaura
+[12Jan2025 19:12:13.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura joined the game
+[12Jan2025 19:12:13.571] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 19:12:13.572] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 19:12:13.577] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/176760, l='ServerLevel[world]', x=304.68, y=79.44, z=1821.37, removed=KILLED]
+[12Jan2025 19:12:13.578] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 19:12:13.643] [Server thread/INFO] [Jade/]: Syncing config to nezmanmatalaura (95937cc7-1c20-3aff-bb1b-14ad16f04219)
+[12Jan2025 19:12:13.733] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to nezmanmatalaura...
+[12Jan2025 19:12:13.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[12Jan2025 19:12:13.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Jan2025 19:12:13.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nezmanmatalaura
+[12Jan2025 19:13:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by capybarav2
+[12Jan2025 19:13:06.938] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/93124, l='ServerLevel[world]', x=345.94, y=69.66, z=2027.30, removed=KILLED]
+[12Jan2025 19:13:06.939] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50474, l='ServerLevel[world]', x=256.89, y=102.71, z=2022.26, removed=KILLED]
+[12Jan2025 19:13:06.945] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/176760, l='ServerLevel[world]', x=304.68, y=79.44, z=1821.37, removed=KILLED]
+[12Jan2025 19:13:06.950] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/50131, l='ServerLevel[world]', x=434.05, y=71.78, z=1892.22, removed=KILLED]
+[12Jan2025 19:13:38.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nezmanmatalaura>    [Golden Horse Armor]
+[12Jan2025 19:13:59.976] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[12Jan2025 19:13:59.976] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[12Jan2025 19:13:59.976] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[12Jan2025 19:14:38.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nezmanmatalaura>    [Tropical Fish]
+[12Jan2025 19:15:29.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Creative Mode]
+[12Jan2025 19:15:41.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[12Jan2025 19:16:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Unbreaking X]
+[12Jan2025 19:17:02.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType

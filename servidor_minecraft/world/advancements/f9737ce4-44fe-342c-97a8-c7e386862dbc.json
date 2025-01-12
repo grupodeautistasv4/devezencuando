@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-01-12 19:16:02 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-01-11 21:18:53 +0000"
@@ -153,6 +159,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-01-11 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-01-12 19:10:29 +0000"
     },
     "done": true
   },
@@ -1705,6 +1717,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-01-12 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-01-12 19:10:29 +0000"
     },
     "done": true
   },
